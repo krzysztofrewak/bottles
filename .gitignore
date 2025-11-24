@@ -1,0 +1,12 @@
+.idea
+__pycache__
+images_temp
+
+*.py[codz]
+*$py.class
+*.so
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+.pypirc
