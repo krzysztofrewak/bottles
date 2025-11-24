@@ -37,10 +37,13 @@ def validate_group_indices(indices):
 
     numeric_sorted = sorted(numeric)
 
+    if numeric_sorted[0] != 1:
+        errors.append(f"Indices must start at 1, found start at {numeric_sorted[0]}")
+
     if len(numeric_sorted) != len(set(numeric_sorted)):
         errors.append("Duplicate indices inside this group")
 
-    expected = list(range(numeric_sorted[0], numeric_sorted[-1] + 1))
+    expected = list(range(1, numeric_sorted[-1] + 1))
     missing = sorted(set(expected) - set(numeric_sorted))
     if missing:
         errors.append(f"Non-continuous sequence, missing: {missing}")

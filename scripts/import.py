@@ -3,7 +3,7 @@ import shutil
 import argparse
 from pathlib import Path
 
-from .utils import build_filename, count_existing_images
+from .utils import build_filename, get_next_index_for_group
 
 IMAGES_DIR = Path("images")
 TEMP_DIR = Path("images_temp")
@@ -13,10 +13,6 @@ METADATA_FILE = TEMP_DIR / "metadata.csv"
 
 
 def load_metadata(path: Path):
-    """Load metadata TSV with columns:
-    Filename, Bottle type, Glass color, Fill level, Liquid color,
-    Label presence, Cap presence, Note
-    """
     entries = []
     with open(path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter="\t")
@@ -26,7 +22,7 @@ def load_metadata(path: Path):
                 "type": row["Bottle type"],
                 "color": row["Glass color"],
                 "fill": row["Fill level"],
-                "liquid": row["Liquid Color"],
+                "liquid": row["Liquid color"],
                 "label": row["Label presence"],
                 "cap": row["Cap presence"],
             }
@@ -35,10 +31,6 @@ def load_metadata(path: Path):
 
 
 def process_entries(entries, dry_run=False):
-    """Rename and move files, or only summarize the operations."""
-    existing = count_existing_images(IMAGES_DIR)
-    next_index = existing + 1
-
     summary = []
 
     for entry in entries:
@@ -49,11 +41,13 @@ def process_entries(entries, dry_run=False):
             summary.append((original_name, None, "File not found"))
             continue
 
+        # NEW: compute next index *per attribute group*
+        next_index = get_next_index_for_group(entry, IMAGES_DIR)
+
         new_name = build_filename(entry, next_index)
         dst = IMAGES_DIR / new_name
 
         summary.append((original_name, new_name, "OK"))
-        next_index += 1
 
         if not dry_run:
             shutil.move(str(src), str(dst))

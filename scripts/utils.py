@@ -56,3 +56,47 @@ def count_existing_images(images_dir: Path) -> int:
         except ValueError:
             pass
     return count
+
+
+def get_next_index_for_group(entry, images_dir: Path):
+    """Return next index for a group defined by entry (per-group numbering)."""
+
+    group_fields = (
+        entry["type"],
+        entry["color"],
+        entry["fill"],
+        entry["liquid"],
+        entry["label"],
+        entry["cap"],
+    )
+
+    max_index = 0
+
+    for file in images_dir.iterdir():
+        if file.is_dir() or file.name.startswith("."):
+            continue
+
+        info = parse_filename(file)
+        if info is None:
+            continue
+
+        file_group = (
+            info["type"],
+            info["color"],
+            info["fill"],
+            info["liquid"],
+            info["label"],
+            info["cap"],
+        )
+
+        if file_group != group_fields:
+            continue
+
+        try:
+            idx = int(info["index"])
+            if idx > max_index:
+                max_index = idx
+        except ValueError:
+            continue
+
+    return max_index + 1

@@ -94,36 +94,36 @@ Only files that follow the expected naming scheme are included in the output. Fi
 
 ### Dataset Statistics
 ```
-Total images: 584
+Total images: 594
 
 Attribute distributions:
 - type:
   - vichy: 308
   - euro: 214
-  - vichylight: 52
+  - vichylight: 62
   - kraft: 6
   - bugel: 3
   - tulip: 1
 - color:
-  - brown: 584
+  - brown: 594
 - fill:
-  - filled: 224
+  - filled: 234
   - overfilled: 144
   - unfilled: 136
   - empty: 80
 - liquid:
   - transparent: 458
   - light: 80
-  - dark: 39
+  - dark: 49
   - black: 7
 - label:
-  - labeled: 434
+  - labeled: 444
   - unlabeled: 150
 - cap:
   - open: 423
-  - crowned: 161
+  - crowned: 171
 
-Unique combinations : 34
+Unique combinations : 35
   - vichy_brown_filled_light_labeled_crowned: 72
   - euro_brown_overfilled_transparent_labeled_open: 57
   - euro_brown_unfilled_transparent_labeled_open: 37
@@ -144,6 +144,7 @@ Unique combinations : 34
   - vichy_brown_unfilled_transparent_unlabeled_open: 12
   - euro_brown_filled_transparent_unlabeled_open: 11
   - euro_brown_overfilled_transparent_unlabeled_open: 11
+  - vichylight_brown_filled_dark_labeled_crowned: 10
   - vichylight_brown_empty_transparent_labeled_open: 9
   - vichy_brown_filled_transparent_unlabeled_crowned: 8
   - euro_brown_empty_transparent_unlabeled_open: 7
