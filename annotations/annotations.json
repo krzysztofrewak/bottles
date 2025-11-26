@@ -1,87 +1,7 @@
 {
   "images": [
     {
-      "filename": "bugel_brown_empty_dark_unlabeled_crowned_001.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 1,
-        "of": 2
-      },
-      "parameters": {
-        "type": "bugel",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "dark",
-        "label": "unlabeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "bugel_brown_empty_dark_unlabeled_crowned_002.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 2,
-        "of": 2
-      },
-      "parameters": {
-        "type": "bugel",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "dark",
-        "label": "unlabeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "bugel_brown_empty_dark_unlabeled_open_001.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 1,
-        "of": 3
-      },
-      "parameters": {
-        "type": "bugel",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "dark",
-        "label": "unlabeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "bugel_brown_empty_dark_unlabeled_open_002.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 2,
-        "of": 3
-      },
-      "parameters": {
-        "type": "bugel",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "dark",
-        "label": "unlabeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "bugel_brown_empty_dark_unlabeled_open_003.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 3,
-        "of": 3
-      },
-      "parameters": {
-        "type": "bugel",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "dark",
-        "label": "unlabeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "bugel_brown_empty_light_labeled_crowned_001.HEIC",
+      "filename": "bugel_brown_empty_empty_labeled_crowned_001.heic",
       "extension": "heic",
       "collection": {
         "index": 1,
@@ -91,13 +11,13 @@
         "type": "bugel",
         "color": "brown",
         "fill": "empty",
-        "liquid": "light",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "bugel_brown_empty_light_labeled_crowned_002.HEIC",
+      "filename": "bugel_brown_empty_empty_labeled_crowned_002.heic",
       "extension": "heic",
       "collection": {
         "index": 2,
@@ -107,13 +27,13 @@
         "type": "bugel",
         "color": "brown",
         "fill": "empty",
-        "liquid": "light",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "bugel_brown_empty_light_labeled_crowned_003.HEIC",
+      "filename": "bugel_brown_empty_empty_labeled_crowned_003.heic",
       "extension": "heic",
       "collection": {
         "index": 3,
@@ -123,9 +43,89 @@
         "type": "bugel",
         "color": "brown",
         "fill": "empty",
-        "liquid": "light",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "crowned"
+      }
+    },
+    {
+      "filename": "bugel_brown_empty_empty_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 2
+      },
+      "parameters": {
+        "type": "bugel",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "bugel_brown_empty_empty_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 2
+      },
+      "parameters": {
+        "type": "bugel",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "bugel_brown_empty_empty_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 3
+      },
+      "parameters": {
+        "type": "bugel",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "bugel_brown_empty_empty_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 3
+      },
+      "parameters": {
+        "type": "bugel",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "bugel_brown_empty_empty_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 3
+      },
+      "parameters": {
+        "type": "bugel",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
       }
     },
     {
@@ -689,7 +689,7 @@
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_001.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_001.jpg",
       "extension": "jpg",
       "collection": {
         "index": 1,
@@ -699,13 +699,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_002.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_002.jpg",
       "extension": "jpg",
       "collection": {
         "index": 2,
@@ -715,13 +715,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_003.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_003.jpg",
       "extension": "jpg",
       "collection": {
         "index": 3,
@@ -731,13 +731,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_004.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_004.jpg",
       "extension": "jpg",
       "collection": {
         "index": 4,
@@ -747,13 +747,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_005.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_005.jpg",
       "extension": "jpg",
       "collection": {
         "index": 5,
@@ -763,13 +763,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_006.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_006.jpg",
       "extension": "jpg",
       "collection": {
         "index": 6,
@@ -779,13 +779,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_007.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_007.jpg",
       "extension": "jpg",
       "collection": {
         "index": 7,
@@ -795,13 +795,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_008.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_008.jpg",
       "extension": "jpg",
       "collection": {
         "index": 8,
@@ -811,13 +811,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_009.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_009.jpg",
       "extension": "jpg",
       "collection": {
         "index": 9,
@@ -827,13 +827,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_010.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_010.jpg",
       "extension": "jpg",
       "collection": {
         "index": 10,
@@ -843,13 +843,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_011.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_011.jpg",
       "extension": "jpg",
       "collection": {
         "index": 11,
@@ -859,13 +859,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_012.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_012.jpg",
       "extension": "jpg",
       "collection": {
         "index": 12,
@@ -875,13 +875,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_013.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_013.jpg",
       "extension": "jpg",
       "collection": {
         "index": 13,
@@ -891,13 +891,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_014.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_014.jpg",
       "extension": "jpg",
       "collection": {
         "index": 14,
@@ -907,13 +907,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_015.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_015.jpg",
       "extension": "jpg",
       "collection": {
         "index": 15,
@@ -923,13 +923,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_016.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_016.jpg",
       "extension": "jpg",
       "collection": {
         "index": 16,
@@ -939,13 +939,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_017.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_017.jpg",
       "extension": "jpg",
       "collection": {
         "index": 17,
@@ -955,13 +955,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_018.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_018.jpg",
       "extension": "jpg",
       "collection": {
         "index": 18,
@@ -971,13 +971,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_019.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_019.jpg",
       "extension": "jpg",
       "collection": {
         "index": 19,
@@ -987,13 +987,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_020.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_020.jpg",
       "extension": "jpg",
       "collection": {
         "index": 20,
@@ -1003,13 +1003,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_021.JPG",
+      "filename": "euro_brown_empty_empty_labeled_open_021.jpg",
       "extension": "jpg",
       "collection": {
         "index": 21,
@@ -1019,13 +1019,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_labeled_open_022.jpg",
+      "filename": "euro_brown_empty_empty_labeled_open_022.jpg",
       "extension": "jpg",
       "collection": {
         "index": 22,
@@ -1035,13 +1035,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_unlabeled_open_001.JPG",
+      "filename": "euro_brown_empty_empty_unlabeled_open_001.jpg",
       "extension": "jpg",
       "collection": {
         "index": 1,
@@ -1051,13 +1051,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_unlabeled_open_002.JPG",
+      "filename": "euro_brown_empty_empty_unlabeled_open_002.jpg",
       "extension": "jpg",
       "collection": {
         "index": 2,
@@ -1067,13 +1067,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_unlabeled_open_003.JPG",
+      "filename": "euro_brown_empty_empty_unlabeled_open_003.jpg",
       "extension": "jpg",
       "collection": {
         "index": 3,
@@ -1083,13 +1083,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_unlabeled_open_004.JPG",
+      "filename": "euro_brown_empty_empty_unlabeled_open_004.jpg",
       "extension": "jpg",
       "collection": {
         "index": 4,
@@ -1099,13 +1099,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_unlabeled_open_005.JPG",
+      "filename": "euro_brown_empty_empty_unlabeled_open_005.jpg",
       "extension": "jpg",
       "collection": {
         "index": 5,
@@ -1115,13 +1115,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_unlabeled_open_006.JPG",
+      "filename": "euro_brown_empty_empty_unlabeled_open_006.jpg",
       "extension": "jpg",
       "collection": {
         "index": 6,
@@ -1131,13 +1131,13 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "euro_brown_empty_transparent_unlabeled_open_007.JPG",
+      "filename": "euro_brown_empty_empty_unlabeled_open_007.jpg",
       "extension": "jpg",
       "collection": {
         "index": 7,
@@ -1147,7 +1147,7 @@
         "type": "euro",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
@@ -4209,7 +4209,7 @@
       }
     },
     {
-      "filename": "tulip_brown_empty_transparent_labeled_open_001.jpg",
+      "filename": "tulip_brown_empty_empty_labeled_open_001.jpg",
       "extension": "jpg",
       "collection": {
         "index": 1,
@@ -4219,13 +4219,13 @@
         "type": "tulip",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_001.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_001.jpg",
       "extension": "jpg",
       "collection": {
         "index": 1,
@@ -4235,13 +4235,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_002.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_002.jpg",
       "extension": "jpg",
       "collection": {
         "index": 2,
@@ -4251,13 +4251,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_003.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_003.jpg",
       "extension": "jpg",
       "collection": {
         "index": 3,
@@ -4267,13 +4267,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_004.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_004.jpg",
       "extension": "jpg",
       "collection": {
         "index": 4,
@@ -4283,13 +4283,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_005.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_005.jpg",
       "extension": "jpg",
       "collection": {
         "index": 5,
@@ -4299,13 +4299,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_006.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_006.jpg",
       "extension": "jpg",
       "collection": {
         "index": 6,
@@ -4315,13 +4315,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_007.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_007.jpg",
       "extension": "jpg",
       "collection": {
         "index": 7,
@@ -4331,13 +4331,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_008.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_008.jpg",
       "extension": "jpg",
       "collection": {
         "index": 8,
@@ -4347,13 +4347,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_009.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_009.jpg",
       "extension": "jpg",
       "collection": {
         "index": 9,
@@ -4363,13 +4363,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_010.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_010.jpg",
       "extension": "jpg",
       "collection": {
         "index": 10,
@@ -4379,13 +4379,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_011.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_011.jpg",
       "extension": "jpg",
       "collection": {
         "index": 11,
@@ -4395,13 +4395,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_012.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_012.jpg",
       "extension": "jpg",
       "collection": {
         "index": 12,
@@ -4411,13 +4411,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_labeled_open_013.JPG",
+      "filename": "vichy_brown_empty_empty_labeled_open_013.jpg",
       "extension": "jpg",
       "collection": {
         "index": 13,
@@ -4427,13 +4427,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_001.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_001.heic",
       "extension": "heic",
       "collection": {
         "index": 1,
@@ -4443,13 +4443,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_002.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_002.heic",
       "extension": "heic",
       "collection": {
         "index": 2,
@@ -4459,13 +4459,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_003.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_003.heic",
       "extension": "heic",
       "collection": {
         "index": 3,
@@ -4475,13 +4475,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_004.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_004.heic",
       "extension": "heic",
       "collection": {
         "index": 4,
@@ -4491,13 +4491,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_005.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_005.heic",
       "extension": "heic",
       "collection": {
         "index": 5,
@@ -4507,13 +4507,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_006.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_006.heic",
       "extension": "heic",
       "collection": {
         "index": 6,
@@ -4523,13 +4523,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_007.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_007.heic",
       "extension": "heic",
       "collection": {
         "index": 7,
@@ -4539,13 +4539,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_008.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_008.heic",
       "extension": "heic",
       "collection": {
         "index": 8,
@@ -4555,13 +4555,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_009.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_009.heic",
       "extension": "heic",
       "collection": {
         "index": 9,
@@ -4571,13 +4571,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_010.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_010.heic",
       "extension": "heic",
       "collection": {
         "index": 10,
@@ -4587,13 +4587,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_011.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_011.heic",
       "extension": "heic",
       "collection": {
         "index": 11,
@@ -4603,13 +4603,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_012.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_012.heic",
       "extension": "heic",
       "collection": {
         "index": 12,
@@ -4619,13 +4619,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_013.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_013.heic",
       "extension": "heic",
       "collection": {
         "index": 13,
@@ -4635,13 +4635,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_014.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_014.heic",
       "extension": "heic",
       "collection": {
         "index": 14,
@@ -4651,13 +4651,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_015.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_015.heic",
       "extension": "heic",
       "collection": {
         "index": 15,
@@ -4667,13 +4667,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_016.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_016.heic",
       "extension": "heic",
       "collection": {
         "index": 16,
@@ -4683,13 +4683,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_017.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_017.heic",
       "extension": "heic",
       "collection": {
         "index": 17,
@@ -4699,13 +4699,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_018.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_018.heic",
       "extension": "heic",
       "collection": {
         "index": 18,
@@ -4715,13 +4715,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_crowned_019.HEIC",
+      "filename": "vichy_brown_empty_empty_unlabeled_crowned_019.heic",
       "extension": "heic",
       "collection": {
         "index": 19,
@@ -4731,13 +4731,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "crowned"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_open_001.jpg",
+      "filename": "vichy_brown_empty_empty_unlabeled_open_001.jpg",
       "extension": "jpg",
       "collection": {
         "index": 1,
@@ -4747,13 +4747,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_open_002.jpg",
+      "filename": "vichy_brown_empty_empty_unlabeled_open_002.jpg",
       "extension": "jpg",
       "collection": {
         "index": 2,
@@ -4763,13 +4763,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_open_003.jpg",
+      "filename": "vichy_brown_empty_empty_unlabeled_open_003.jpg",
       "extension": "jpg",
       "collection": {
         "index": 3,
@@ -4779,13 +4779,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_open_004.jpg",
+      "filename": "vichy_brown_empty_empty_unlabeled_open_004.jpg",
       "extension": "jpg",
       "collection": {
         "index": 4,
@@ -4795,13 +4795,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_open_005.jpg",
+      "filename": "vichy_brown_empty_empty_unlabeled_open_005.jpg",
       "extension": "jpg",
       "collection": {
         "index": 5,
@@ -4811,13 +4811,13 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichy_brown_empty_transparent_unlabeled_open_006.jpg",
+      "filename": "vichy_brown_empty_empty_unlabeled_open_006.jpg",
       "extension": "jpg",
       "collection": {
         "index": 6,
@@ -4827,7 +4827,7 @@
         "type": "vichy",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "unlabeled",
         "cap": "open"
       }
@@ -9153,7 +9153,7 @@
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_001.jpg",
+      "filename": "vichylight_brown_empty_empty_labeled_open_001.jpg",
       "extension": "jpg",
       "collection": {
         "index": 1,
@@ -9163,13 +9163,13 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_002.JPG",
+      "filename": "vichylight_brown_empty_empty_labeled_open_002.jpg",
       "extension": "jpg",
       "collection": {
         "index": 2,
@@ -9179,13 +9179,13 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_003.JPG",
+      "filename": "vichylight_brown_empty_empty_labeled_open_003.jpg",
       "extension": "jpg",
       "collection": {
         "index": 3,
@@ -9195,13 +9195,13 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_004.JPG",
+      "filename": "vichylight_brown_empty_empty_labeled_open_004.jpg",
       "extension": "jpg",
       "collection": {
         "index": 4,
@@ -9211,13 +9211,13 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_005.JPG",
+      "filename": "vichylight_brown_empty_empty_labeled_open_005.jpg",
       "extension": "jpg",
       "collection": {
         "index": 5,
@@ -9227,13 +9227,13 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_006.JPG",
+      "filename": "vichylight_brown_empty_empty_labeled_open_006.jpg",
       "extension": "jpg",
       "collection": {
         "index": 6,
@@ -9243,13 +9243,13 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_007.JPG",
+      "filename": "vichylight_brown_empty_empty_labeled_open_007.jpg",
       "extension": "jpg",
       "collection": {
         "index": 7,
@@ -9259,13 +9259,13 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_008.JPG",
+      "filename": "vichylight_brown_empty_empty_labeled_open_008.jpg",
       "extension": "jpg",
       "collection": {
         "index": 8,
@@ -9275,13 +9275,13 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }
     },
     {
-      "filename": "vichylight_brown_empty_transparent_labeled_open_009.JPG",
+      "filename": "vichylight_brown_empty_empty_labeled_open_009.jpg",
       "extension": "jpg",
       "collection": {
         "index": 9,
@@ -9291,7 +9291,7 @@
         "type": "vichylight",
         "color": "brown",
         "fill": "empty",
-        "liquid": "transparent",
+        "liquid": "empty",
         "label": "labeled",
         "cap": "open"
       }

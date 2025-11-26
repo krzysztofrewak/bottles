@@ -1,5 +1,7 @@
 ## A Multi-Attribute Dataset of Commercial Bottles for Computer Vision Research
-This repository contains a curated dataset of high-resolution images of commercial beverage bottles. Each image represents a controlled configuration of bottle attributes, including bottle type, glass color, fill level, liquid color, label presence, and cap state. Filenames follow a deterministic naming convention encoding these attributes, and the repository includes scripts for analyzing and validating the dataset.
+> This repository is under continuous development.
+
+This repository contains a curated dataset of high-resolution images of commercial beer bottles. Each image represents a controlled configuration of bottle attributes, including bottle type, glass color, fill level, liquid color, label presence, and cap state. Filenames follow a deterministic naming convention encoding these attributes, and the repository includes scripts for analyzing and validating the dataset.
 
 The dataset is published as a versioned archive on Zenodo and assigned a DOI to ensure long-term accessibility, citability, and reproducibility. This GitHub repository complements the Zenodo record by providing code, documentation, and tools for working with the dataset.
 
@@ -56,7 +58,6 @@ Run with:
 ```
 python -m scripts.build
 ```
-
 
 #### Statistics
 A handy script computes summary statistics for all images located in the `images/` directory. The script parses filenames according to the naming convention and prints:
@@ -127,6 +128,12 @@ python -m scripts.annotate
 ```
 
 Only files that follow the expected naming scheme are included in the output. Files that cannot be parsed are skipped automatically.
+
+#### Testing
+Run with:
+```
+pytest -q
+```
 
 ### Dataset Statistics
 <!-- STATS_START -->

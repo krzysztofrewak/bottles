@@ -10,3 +10,4 @@ images_temp
 pip-log.txt
 pip-delete-this-directory.txt
 .pypirc
+*.zip
