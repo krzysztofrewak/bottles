@@ -51,7 +51,7 @@ def validate_group_indices(indices):
     return errors
 
 
-def main():
+def main(return_success=False):
     parsing_errors = []
     attribute_errors = []
 
@@ -95,6 +95,15 @@ def main():
         if duplicates:
             duplicate_indices[key] = duplicates
 
+    if return_success:
+        return (
+            not parsing_errors
+            and not attribute_errors
+            and not group_index_errors
+            and not duplicate_indices
+        )
+
+    # Standard terminal output:
     print("\nDataset validation report\n")
 
     print("Files with invalid naming:")
