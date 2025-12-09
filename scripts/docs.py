@@ -18,7 +18,7 @@ def main():
             "cap": parameters["cap"]
         })
 
-    with open("public/data.json", "w") as file:
+    with open("docs/data.json", "w") as file:
         json.dump(out, file, indent=2)
 
 

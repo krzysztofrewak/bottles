@@ -3,7 +3,7 @@ from io import StringIO
 import contextlib
 import sys
 
-from scripts import validate, stats, annotate, public
+from scripts import validate, stats, annotate, docs
 
 
 TEMPLATE = Path("templates/readme.md")
@@ -59,10 +59,10 @@ def run_annotations():
     print("Annotations generated.\n")
 
 
-def run_public_build():
-    print("Generating public build files...")
-    public.main()
-    print("Public build files generated.\n")
+def run_docs_build():
+    print("Generating docs build files...")
+    docs.main()
+    print("Docs build files generated.\n")
 
 
 def main():
@@ -72,7 +72,7 @@ def main():
     stats_text = capture_stats_output()
     update_readme(stats_text)
     run_annotations()
-    run_public_build()
+    run_docs_build()
 
     print("Build completed successfully.")
 
