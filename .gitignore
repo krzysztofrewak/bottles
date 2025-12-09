@@ -1,6 +1,7 @@
 .idea
 __pycache__
 images_temp
+images_backup
 
 *.py[codz]
 *$py.class

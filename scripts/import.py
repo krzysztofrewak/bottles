@@ -8,7 +8,6 @@ from .utils import build_filename, get_next_index_for_group
 IMAGES_DIR = Path("images")
 TEMP_DIR = Path("images_temp")
 
-# Metadata exported from Google Sheets as TSV
 METADATA_FILE = TEMP_DIR / "metadata.csv"
 
 
@@ -41,7 +40,6 @@ def process_entries(entries, dry_run=False):
             summary.append((original_name, None, "File not found"))
             continue
 
-        # NEW: compute next index *per attribute group*
         next_index = get_next_index_for_group(entry, IMAGES_DIR)
 
         new_name = build_filename(entry, next_index)

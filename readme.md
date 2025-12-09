@@ -139,53 +139,56 @@ pytest -q
 
 ### Dataset Statistics
 ```
-Date: 2025-11-26
-Total images: 634
+Date: 2025-12-09
+Total images: 869
 
 Attribute distributions:
 - type:
-  - vichy: 308
+  - vichy: 543
   - euro: 214
   - vichylight: 62
   - bugel: 43
   - kraft: 6
   - tulip: 1
 - color:
-  - brown: 634
+  - brown: 869
 - fill:
-  - filled: 249
-  - unfilled: 152
+  - filled: 355
+  - unfilled: 217
+  - empty: 149
   - overfilled: 148
-  - empty: 85
 - liquid:
   - transparent: 381
-  - empty: 85
+  - light: 248
+  - empty: 149
   - dark: 84
-  - light: 77
   - black: 7
 - label:
-  - labeled: 444
-  - unlabeled: 190
+  - labeled: 578
+  - unlabeled: 291
 - cap:
-  - open: 437
-  - crowned: 197
+  - open: 531
+  - crowned: 338
 
 File extensions:
-  - jpg: 464
+  - jpg: 699
   - heic: 170
 
-Unique combinations: 42
-  - vichy_brown_filled_light_labeled_crowned: 72
+Unique combinations: 44
+  - vichy_brown_filled_light_labeled_crowned: 149
+  - vichy_brown_unfilled_light_unlabeled_open: 67
   - euro_brown_overfilled_transparent_labeled_open: 57
+  - vichy_brown_empty_empty_unlabeled_crowned: 55
   - euro_brown_unfilled_transparent_labeled_open: 37
   - vichy_brown_unfilled_transparent_labeled_open: 37
   - euro_brown_filled_transparent_labeled_open: 35
   - vichy_brown_overfilled_transparent_labeled_open: 34
   - vichy_brown_filled_dark_labeled_crowned: 31
+  - vichy_brown_filled_light_labeled_open: 29
+  - vichy_brown_empty_empty_labeled_crowned: 28
   - euro_brown_unfilled_transparent_unlabeled_open: 27
   - vichy_brown_filled_transparent_labeled_open: 27
   - euro_brown_empty_empty_labeled_open: 22
-  - vichy_brown_empty_empty_unlabeled_crowned: 19
   - vichylight_brown_unfilled_transparent_labeled_open: 16
   - vichy_brown_overfilled_transparent_unlabeled_open: 15
   - vichy_brown_filled_transparent_unlabeled_open: 14
@@ -215,7 +218,6 @@ Unique combinations: 42
   - vichy_brown_overfilled_dark_unlabeled_crowned: 3
   - vichy_brown_overfilled_light_unlabeled_crowned: 3
   - bugel_brown_empty_empty_unlabeled_crowned: 2
-  - vichy_brown_unfilled_light_unlabeled_open: 2
   - tulip_brown_empty_empty_labeled_open: 1
 ```
 
