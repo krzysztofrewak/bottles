@@ -139,42 +139,44 @@ pytest -q
 
 ### Dataset Statistics
 ```
-Date: 2025-12-09
-Total images: 869
+Date: 2025-12-13
+Total images: 1106
 
 Attribute distributions:
 - type:
   - vichy: 543
+  - steine: 237
   - euro: 214
   - vichylight: 62
   - bugel: 43
   - kraft: 6
   - tulip: 1
 - color:
-  - brown: 869
+  - brown: 984
+  - green: 122
 - fill:
-  - filled: 355
-  - unfilled: 217
-  - empty: 149
-  - overfilled: 148
+  - filled: 432
+  - unfilled: 282
+  - empty: 222
+  - overfilled: 170
 - liquid:
+  - light: 412
   - transparent: 381
-  - light: 248
-  - empty: 149
+  - empty: 222
   - dark: 84
   - black: 7
 - label:
-  - labeled: 578
-  - unlabeled: 291
+  - labeled: 715
+  - unlabeled: 391
 - cap:
-  - open: 531
-  - crowned: 338
+  - open: 635
+  - crowned: 471
 
 File extensions:
-  - jpg: 699
+  - jpg: 936
   - heic: 170
 
-Unique combinations: 44
+Unique combinations: 73
   - vichy_brown_filled_light_labeled_crowned: 149
   - vichy_brown_unfilled_light_unlabeled_open: 67
   - euro_brown_overfilled_transparent_labeled_open: 57
@@ -191,26 +193,54 @@ Unique combinations: 44
   - euro_brown_empty_empty_labeled_open: 22
   - vichylight_brown_unfilled_transparent_labeled_open: 16
   - vichy_brown_overfilled_transparent_unlabeled_open: 15
+  - steine_green_empty_empty_labeled_crowned: 14
   - vichy_brown_filled_transparent_unlabeled_open: 14
   - vichylight_brown_overfilled_transparent_labeled_open: 14
+  - steine_green_empty_empty_labeled_open: 13
+  - steine_green_filled_light_labeled_open: 13
   - vichy_brown_empty_empty_labeled_open: 13
   - vichylight_brown_filled_transparent_labeled_open: 13
+  - steine_brown_filled_light_labeled_crowned: 12
   - vichy_brown_unfilled_transparent_unlabeled_open: 12
   - bugel_brown_unfilled_dark_unlabeled_crowned: 11
   - euro_brown_filled_transparent_unlabeled_open: 11
   - euro_brown_overfilled_transparent_unlabeled_open: 11
+  - steine_brown_empty_empty_labeled_crowned: 11
+  - steine_green_filled_light_unlabeled_crowned: 11
+  - steine_green_unfilled_light_unlabeled_crowned: 11
+  - steine_green_unfilled_light_unlabeled_open: 11
+  - steine_brown_unfilled_light_labeled_crowned: 10
+  - steine_green_filled_light_labeled_crowned: 10
   - vichylight_brown_filled_dark_labeled_crowned: 10
   - bugel_brown_filled_dark_unlabeled_crowned: 9
+  - steine_brown_empty_empty_labeled_open: 9
+  - steine_brown_filled_light_labeled_open: 9
+  - steine_brown_filled_light_unlabeled_crowned: 9
+  - steine_brown_unfilled_light_unlabeled_crowned: 9
   - vichylight_brown_empty_empty_labeled_open: 9
+  - steine_green_unfilled_light_labeled_crowned: 8
   - vichy_brown_filled_transparent_unlabeled_crowned: 8
   - euro_brown_empty_empty_unlabeled_open: 7
   - euro_brown_filled_black_labeled_crowned: 7
+  - steine_brown_empty_empty_unlabeled_open: 7
+  - steine_brown_overfilled_light_labeled_crowned: 7
+  - steine_green_empty_empty_unlabeled_crowned: 7
+  - steine_green_filled_light_unlabeled_open: 7
   - vichy_brown_overfilled_transparent_unlabeled_crowned: 7
   - bugel_brown_filled_dark_unlabeled_open: 6
+  - steine_brown_empty_empty_unlabeled_crowned: 6
+  - steine_brown_filled_light_unlabeled_open: 6
+  - steine_brown_unfilled_light_unlabeled_open: 6
+  - steine_green_empty_empty_unlabeled_open: 6
   - vichy_brown_empty_empty_unlabeled_open: 6
   - bugel_brown_unfilled_dark_unlabeled_open: 5
+  - steine_brown_overfilled_light_labeled_open: 5
+  - steine_brown_unfilled_light_labeled_open: 5
+  - steine_green_unfilled_light_labeled_open: 5
   - vichy_brown_unfilled_dark_unlabeled_crowned: 5
   - bugel_brown_overfilled_dark_unlabeled_crowned: 4
+  - steine_brown_overfilled_light_unlabeled_crowned: 4
+  - steine_green_overfilled_light_labeled_crowned: 4
   - bugel_brown_empty_empty_labeled_crowned: 3
   - bugel_brown_empty_empty_unlabeled_open: 3
   - kraft_brown_filled_transparent_labeled_crowned: 3
@@ -218,6 +248,7 @@ Unique combinations: 44
   - vichy_brown_overfilled_dark_unlabeled_crowned: 3
   - vichy_brown_overfilled_light_unlabeled_crowned: 3
   - bugel_brown_empty_empty_unlabeled_crowned: 2
+  - steine_green_overfilled_light_labeled_open: 2
   - tulip_brown_empty_empty_labeled_open: 1
 ```
 

@@ -1,6 +1,5 @@
 from pathlib import Path
 
-# Fields used in the naming convention (except the index)
 ATTR_FIELDS = ["type", "color", "fill", "liquid", "label", "cap"]
 
 
@@ -11,6 +10,8 @@ def parse_filename(path: Path):
        Returns dict or None if structure mismatches.
     """
     stem = path.stem
+    ext = path.suffix.lower().lstrip(".")
+
     parts = stem.split("_")
 
     if len(parts) != 7:
@@ -24,12 +25,13 @@ def parse_filename(path: Path):
         "label": parts[4],
         "cap": parts[5],
         "index": parts[6],
+        "ext": ext,
     }
 
     return data
 
 
-def build_filename(entry: dict, index: int) -> str:
+def build_filename(entry: dict, index: int, extension: str = "jpg") -> str:
     """Construct a filename with the standard dataset convention."""
     name = (
         f"{entry['type']}_"
@@ -38,15 +40,19 @@ def build_filename(entry: dict, index: int) -> str:
         f"{entry['liquid']}_"
         f"{entry['label']}_"
         f"{entry['cap']}_"
-        f"{index:03d}.jpg"
+        f"{index:03d}.{extension}"
     )
+
     return name.lower()
 
 
 def count_existing_images(images_dir: Path) -> int:
     """Count how many valid indexed images exist in images_dir."""
     count = 0
-    for file in images_dir.glob("*.jpg"):
+    for file in images_dir.iterdir():
+        if file.is_dir() or file.name.startswith("."):
+            continue
+
         info = parse_filename(file)
         if info is None:
             continue

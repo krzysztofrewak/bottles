@@ -3,15 +3,16 @@
   <head>
     <meta charset="utf-8">
     <title>A Multi-Attribute Dataset of Commercial Bottles for Computer Vision Research</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
   </head>
 
-  <body class="bg-gray-100 text-gray-900">
-    <div x-data="datasetExplorer()" x-init="loadData()" class="max-w-5xl mx-auto py-10">
+  <body class="bg-gray-100 text-gray-900 p-8">
+    <div x-data="datasetExplorer()" x-init="loadData()" class="max-w-5xl mx-auto">
       <h1 class="text-2xl font-bold">A Multi-Attribute Dataset of Commercial Bottles for Computer Vision Research</h1>
       <h2 class="text-xl mb-6">A statistics tool</h2>
-      <div class="grid grid-cols-3 gap-4 mb-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
         <template x-for="attr in attributes" :key="attr">
           <div>
             <label class="block text-sm font-semibold mb-1" x-text="attr"></label>
@@ -26,7 +27,7 @@
       </div>
 
       <h2 class="text-2xl font-bold mb-4">Statistics</h2>
-      <div class="grid grid-cols-3 gap-6">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
         <template x-for="attr in attributes" :key="attr">
           <div class="bg-white p-4 rounded shadow">
             <h3 class="font-semibold mb-2" x-text="attr"></h3>
@@ -57,7 +58,7 @@
 
             <div>
               <div class="font-semibold mb-2 text-gray-700">Authors</div>
-              <ul class="flex flex-wrap gap-6">
+              <ul class="flex flex-wrap gap-x-6">
                 <li>
                   <a href="https://orcid.org/0000-0001-9109-3350" target="_blank" class="text-blue-600 hover:text-blue-800 hover:underline flex items-center gap-2">
                     <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" class="w-4 h-4" alt="Mateusz Jackowski"> Mateusz Jackowski
@@ -85,7 +86,7 @@
         return {
           allData: [],
           attributes: ["type", "color", "fill", "liquid", "label", "cap"],
-          filters: { type: "", color: "", fill: "", liquid: "", label: "", cap: "" },
+          filters: {type: "", color: "", fill: "", liquid: "", label: "", cap: ""},
           uniqueValues: {},
           async loadData() {
             const res = await fetch("data.json")

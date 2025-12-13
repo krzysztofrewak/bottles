@@ -2367,6 +2367,2139 @@
     "cap": "open"
   },
   {
+    "filename": "steine_brown_empty_empty_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_010.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_011.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_open_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_unlabeled_open_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_010.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_011.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_crowned_012.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_labeled_open_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_light_unlabeled_open_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_unlabeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_unlabeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_unlabeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_light_unlabeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_crowned_010.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_light_unlabeled_open_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_010.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_011.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_012.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_013.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_crowned_014.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_008.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_009.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_010.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_011.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_012.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_labeled_open_013.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_open_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_open_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_open_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_open_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_open_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_empty_empty_unlabeled_open_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_crowned_010.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_008.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_009.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_010.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_011.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_012.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_labeled_open_013.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_010.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_crowned_011.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_open_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_open_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_open_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_open_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_open_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_open_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_filled_light_unlabeled_open_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_overfilled_light_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_overfilled_light_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_overfilled_light_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_overfilled_light_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_overfilled_light_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_overfilled_light_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_010.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_crowned_011.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_001.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_002.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_003.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_004.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_005.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_006.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_007.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_008.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_009.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_010.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_green_unfilled_light_unlabeled_open_011.jpg",
+    "type": "steine",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
     "filename": "tulip_brown_empty_empty_labeled_open_001.jpg",
     "type": "tulip",
     "color": "brown",

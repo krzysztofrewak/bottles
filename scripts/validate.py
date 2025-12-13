@@ -1,5 +1,6 @@
 import hashlib
 from pathlib import Path
+
 from .utils import parse_filename, ATTR_FIELDS
 
 IMAGES_DIR = Path("images")
@@ -17,14 +18,12 @@ ALLOWED_VALUES = {
 def validate_attributes(attributes):
     errors = []
 
-    # Validate allowed categorical values
     for field in ATTR_FIELDS:
         value = attributes[field]
         if field in ALLOWED_VALUES and value not in ALLOWED_VALUES[field]:
             allowed = ALLOWED_VALUES[field]
             errors.append(f"{field}: '{value}' not in allowed set {allowed}")
 
-    # Semantic rule: if fill == empty, liquid must be empty
     if attributes.get("fill") == "empty" and attributes.get("liquid") != "empty":
         errors.append(
             f"Invalid liquid='{attributes.get('liquid')}' for fill='empty'. "
@@ -49,15 +48,12 @@ def validate_group_indices(indices):
 
     numeric_sorted = sorted(numeric)
 
-    # Indices must start at 1
     if numeric_sorted[0] != 1:
         errors.append(f"Indices must start at 1, found start at {numeric_sorted[0]}")
 
-    # Check duplicates
     if len(numeric_sorted) != len(set(numeric_sorted)):
         errors.append("Duplicate indices inside this group")
 
-    # Continuity check
     expected = list(range(1, numeric_sorted[-1] + 1))
     missing = sorted(set(expected) - set(numeric_sorted))
     if missing:
@@ -81,7 +77,6 @@ def main(return_success=False):
 
     groups = {}
 
-    # Parse files and group metadata
     for file in sorted(IMAGES_DIR.iterdir()):
         if file.is_dir() or file.name.startswith("."):
             continue
@@ -98,7 +93,6 @@ def main(return_success=False):
         group_key = tuple(info[field] for field in ATTR_FIELDS)
         groups.setdefault(group_key, []).append((file.name, info["index"]))
 
-    # Validate indices inside groups
     group_index_errors = {}
     duplicate_indices = {}
 
@@ -117,7 +111,6 @@ def main(return_success=False):
         if duplicates:
             duplicate_indices[key] = duplicates
 
-    # Duplicate images by content
     hash_map = {}
     duplicates_by_hash = {}
 
@@ -132,17 +125,15 @@ def main(return_success=False):
         if len(files) > 1:
             duplicates_by_hash[digest] = files
 
-    # If called programmatically by build.py, return boolean only
     if return_success:
         return (
-            not parsing_errors
-            and not attribute_errors
-            and not group_index_errors
-            and not duplicate_indices
-            and not duplicates_by_hash
+                not parsing_errors
+                and not attribute_errors
+                and not group_index_errors
+                and not duplicate_indices
+                and not duplicates_by_hash
         )
 
-    # Terminal report
     print("\nDataset validation report\n")
 
     print("Files with invalid naming:")
