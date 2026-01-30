@@ -139,44 +139,45 @@ pytest -q
 
 ### Dataset Statistics
 ```
-Date: 2025-12-13
-Total images: 1106
+Date: 2026-01-30
+Total images: 1338
 
 Attribute distributions:
 - type:
   - vichy: 543
   - steine: 237
   - euro: 214
+  - kormoran: 196
+  - bugel: 79
   - vichylight: 62
-  - bugel: 43
   - kraft: 6
   - tulip: 1
 - color:
-  - brown: 984
+  - brown: 1216
   - green: 122
 - fill:
-  - filled: 432
-  - unfilled: 282
-  - empty: 222
-  - overfilled: 170
+  - filled: 540
+  - unfilled: 336
+  - empty: 268
+  - overfilled: 194
 - liquid:
-  - light: 412
-  - transparent: 381
-  - empty: 222
+  - light: 580
+  - transparent: 399
+  - empty: 268
   - dark: 84
   - black: 7
 - label:
-  - labeled: 715
-  - unlabeled: 391
+  - labeled: 828
+  - unlabeled: 510
 - cap:
-  - open: 635
-  - crowned: 471
+  - open: 767
+  - crowned: 571
 
 File extensions:
-  - jpg: 936
+  - jpg: 1168
   - heic: 170
 
-Unique combinations: 73
+Unique combinations: 91
   - vichy_brown_filled_light_labeled_crowned: 149
   - vichy_brown_unfilled_light_unlabeled_open: 67
   - euro_brown_overfilled_transparent_labeled_open: 57
@@ -189,45 +190,64 @@ Unique combinations: 73
   - vichy_brown_filled_light_labeled_open: 29
   - vichy_brown_empty_empty_labeled_crowned: 28
   - euro_brown_unfilled_transparent_unlabeled_open: 27
+  - kormoran_brown_unfilled_light_labeled_open: 27
   - vichy_brown_filled_transparent_labeled_open: 27
   - euro_brown_empty_empty_labeled_open: 22
+  - kormoran_brown_filled_light_labeled_open: 21
+  - kormoran_brown_filled_light_labeled_crowned: 18
   - vichylight_brown_unfilled_transparent_labeled_open: 16
+  - kormoran_brown_filled_light_unlabeled_crowned: 15
   - vichy_brown_overfilled_transparent_unlabeled_open: 15
+  - bugel_brown_empty_empty_unlabeled_open: 14
+  - kormoran_brown_empty_empty_unlabeled_open: 14
   - steine_green_empty_empty_labeled_crowned: 14
   - vichy_brown_filled_transparent_unlabeled_open: 14
   - vichylight_brown_overfilled_transparent_labeled_open: 14
+  - bugel_brown_filled_light_unlabeled_open: 13
   - steine_green_empty_empty_labeled_open: 13
   - steine_green_filled_light_labeled_open: 13
   - vichy_brown_empty_empty_labeled_open: 13
   - vichylight_brown_filled_transparent_labeled_open: 13
+  - bugel_brown_filled_light_unlabeled_crowned: 12
+  - kormoran_brown_overfilled_light_labeled_crowned: 12
+  - kormoran_brown_overfilled_light_labeled_open: 12
   - steine_brown_filled_light_labeled_crowned: 12
   - vichy_brown_unfilled_transparent_unlabeled_open: 12
   - bugel_brown_unfilled_dark_unlabeled_crowned: 11
   - euro_brown_filled_transparent_unlabeled_open: 11
   - euro_brown_overfilled_transparent_unlabeled_open: 11
+  - kormoran_brown_filled_light_unlabeled_open: 11
+  - kormoran_brown_unfilled_light_labeled_crowned: 11
   - steine_brown_empty_empty_labeled_crowned: 11
   - steine_green_filled_light_unlabeled_crowned: 11
   - steine_green_unfilled_light_unlabeled_crowned: 11
   - steine_green_unfilled_light_unlabeled_open: 11
+  - kormoran_brown_filled_transparent_unlabeled_crowned: 10
   - steine_brown_unfilled_light_labeled_crowned: 10
   - steine_green_filled_light_labeled_crowned: 10
   - vichylight_brown_filled_dark_labeled_crowned: 10
   - bugel_brown_filled_dark_unlabeled_crowned: 9
+  - kormoran_brown_empty_empty_unlabeled_crowned: 9
+  - kormoran_brown_unfilled_light_unlabeled_open: 9
   - steine_brown_empty_empty_labeled_open: 9
   - steine_brown_filled_light_labeled_open: 9
   - steine_brown_filled_light_unlabeled_crowned: 9
   - steine_brown_unfilled_light_unlabeled_crowned: 9
   - vichylight_brown_empty_empty_labeled_open: 9
+  - kormoran_brown_filled_transparent_unlabeled_open: 8
   - steine_green_unfilled_light_labeled_crowned: 8
   - vichy_brown_filled_transparent_unlabeled_crowned: 8
   - euro_brown_empty_empty_unlabeled_open: 7
   - euro_brown_filled_black_labeled_crowned: 7
+  - kormoran_brown_unfilled_light_unlabeled_crowned: 7
   - steine_brown_empty_empty_unlabeled_open: 7
   - steine_brown_overfilled_light_labeled_crowned: 7
   - steine_green_empty_empty_unlabeled_crowned: 7
   - steine_green_filled_light_unlabeled_open: 7
   - vichy_brown_overfilled_transparent_unlabeled_crowned: 7
   - bugel_brown_filled_dark_unlabeled_open: 6
+  - kormoran_brown_empty_empty_labeled_crowned: 6
+  - kormoran_brown_empty_empty_labeled_open: 6
   - steine_brown_empty_empty_unlabeled_crowned: 6
   - steine_brown_filled_light_unlabeled_open: 6
   - steine_brown_unfilled_light_unlabeled_open: 6
@@ -242,7 +262,6 @@ Unique combinations: 73
   - steine_brown_overfilled_light_unlabeled_crowned: 4
   - steine_green_overfilled_light_labeled_crowned: 4
   - bugel_brown_empty_empty_labeled_crowned: 3
-  - bugel_brown_empty_empty_unlabeled_open: 3
   - kraft_brown_filled_transparent_labeled_crowned: 3
   - kraft_brown_filled_transparent_labeled_open: 3
   - vichy_brown_overfilled_dark_unlabeled_crowned: 3
