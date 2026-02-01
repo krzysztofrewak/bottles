@@ -7825,102 +7825,6 @@
       }
     },
     {
-      "filename": "kraft_brown_filled_transparent_labeled_crowned_001.HEIC",
-      "extension": "heic",
-      "collection": {
-        "index": 1,
-        "of": 3
-      },
-      "parameters": {
-        "type": "kraft",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "kraft_brown_filled_transparent_labeled_crowned_002.HEIC",
-      "extension": "heic",
-      "collection": {
-        "index": 2,
-        "of": 3
-      },
-      "parameters": {
-        "type": "kraft",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "kraft_brown_filled_transparent_labeled_crowned_003.HEIC",
-      "extension": "heic",
-      "collection": {
-        "index": 3,
-        "of": 3
-      },
-      "parameters": {
-        "type": "kraft",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "kraft_brown_filled_transparent_labeled_open_001.HEIC",
-      "extension": "heic",
-      "collection": {
-        "index": 1,
-        "of": 3
-      },
-      "parameters": {
-        "type": "kraft",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "kraft_brown_filled_transparent_labeled_open_002.HEIC",
-      "extension": "heic",
-      "collection": {
-        "index": 2,
-        "of": 3
-      },
-      "parameters": {
-        "type": "kraft",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "kraft_brown_filled_transparent_labeled_open_003.HEIC",
-      "extension": "heic",
-      "collection": {
-        "index": 3,
-        "of": 3
-      },
-      "parameters": {
-        "type": "kraft",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
       "filename": "longneck330_brown_empty_empty_unlabeled_crowned_001.jpg",
       "extension": "jpg",
       "collection": {
@@ -9533,6 +9437,998 @@
         "fill": "unfilled",
         "liquid": "light",
         "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_empty_empty_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 9
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_dark_labeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 10
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_001.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_002.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_003.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_004.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_005.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_006.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_007.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_008.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_009.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_010.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_011.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_012.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_filled_transparent_labeled_open_013.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 13
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_001.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_002.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_003.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_004.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_005.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_006.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_007.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_008.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_009.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_010.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_011.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_012.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_013.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_overfilled_transparent_labeled_open_014.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 14
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_001.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_002.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_003.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_004.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_005.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_006.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_007.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_008.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_009.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_010.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_011.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_012.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_013.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_014.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_015.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "nrw_brown_unfilled_transparent_labeled_open_016.JPG",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 16
+      },
+      "parameters": {
+        "type": "nrw",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
         "cap": "open"
       }
     },
@@ -22029,998 +22925,6 @@
         "fill": "unfilled",
         "liquid": "transparent",
         "label": "unlabeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_001.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 1,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_002.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 2,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_003.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 3,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_004.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 4,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_005.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 5,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_006.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 6,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_007.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 7,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_008.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 8,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_empty_empty_labeled_open_009.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 9,
-        "of": 9
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "empty",
-        "liquid": "empty",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_001.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 1,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_002.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 2,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_003.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 3,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_004.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 4,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_005.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 5,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_006.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 6,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_007.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 7,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_008.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 8,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_009.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 9,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_dark_labeled_crowned_010.jpg",
-      "extension": "jpg",
-      "collection": {
-        "index": 10,
-        "of": 10
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "dark",
-        "label": "labeled",
-        "cap": "crowned"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_001.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 1,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_002.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 2,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_003.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 3,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_004.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 4,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_005.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 5,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_006.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 6,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_007.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 7,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_008.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 8,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_009.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 9,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_010.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 10,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_011.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 11,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_012.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 12,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_filled_transparent_labeled_open_013.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 13,
-        "of": 13
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "filled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_001.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 1,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_002.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 2,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_003.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 3,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_004.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 4,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_005.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 5,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_006.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 6,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_007.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 7,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_008.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 8,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_009.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 9,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_010.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 10,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_011.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 11,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_012.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 12,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_013.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 13,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_overfilled_transparent_labeled_open_014.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 14,
-        "of": 14
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "overfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_001.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 1,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_002.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 2,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_003.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 3,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_004.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 4,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_005.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 5,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_006.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 6,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_007.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 7,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_008.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 8,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_009.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 9,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_010.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 10,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_011.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 11,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_012.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 12,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_013.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 13,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_014.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 14,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_015.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 15,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
-        "cap": "open"
-      }
-    },
-    {
-      "filename": "vichylight_brown_unfilled_transparent_labeled_open_016.JPG",
-      "extension": "jpg",
-      "collection": {
-        "index": 16,
-        "of": 16
-      },
-      "parameters": {
-        "type": "vichylight",
-        "color": "brown",
-        "fill": "unfilled",
-        "liquid": "transparent",
-        "label": "labeled",
         "cap": "open"
       }
     }

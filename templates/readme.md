@@ -138,6 +138,15 @@ pytest -q
 ### Dataset Statistics
 <!-- STATS_START -->
 <!-- STATS_END -->
+#### Bottle types
+  - bugel: https://katalog.vetropack.com/catalogue/detail/26821
+  - euro: https://katalog.vetropack.com/catalogue/detail/16931
+  - kormoran330: custom bottle
+  - longneck330: https://katalog.vetropack.com/catalogue/detail/36950
+  - nrw: https://katalog.vetropack.com/catalogue/detail/31782
+  - steine: https://katalog.vetropack.com/catalogue/detail/31470
+  - tulip: https://katalog.vetropack.com/catalogue/detail/34120
+  - vichy: https://katalog.vetropack.com/catalogue/detail/30525
 
 ### Citation
 If you use this dataset, please cite:

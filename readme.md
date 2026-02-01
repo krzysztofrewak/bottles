@@ -140,7 +140,7 @@ pytest -q
 ### Dataset Statistics
 ```
 Date: 2026-02-01
-Total images: 1439
+Total images: 1433
 
 Attribute distributions:
 - type:
@@ -150,35 +150,34 @@ Attribute distributions:
   - kormoran330: 196
   - longneck330: 101
   - bugel: 79
-  - vichylight: 62
-  - kraft: 6
+  - nrw: 62
   - tulip: 1
 - color:
-  - brown: 1317
+  - brown: 1311
   - green: 122
 - fill:
-  - filled: 576
+  - filled: 570
   - unfilled: 357
   - empty: 292
   - overfilled: 214
 - liquid:
   - light: 646
-  - transparent: 410
+  - transparent: 404
   - empty: 292
   - dark: 84
   - black: 7
 - label:
-  - labeled: 828
+  - labeled: 822
   - unlabeled: 611
 - cap:
-  - open: 819
-  - crowned: 620
+  - open: 816
+  - crowned: 617
 
 File extensions:
   - jpg: 1269
-  - heic: 170
+  - heic: 164
 
-Unique combinations: 101
+Unique combinations: 99
   - vichy_brown_filled_light_labeled_crowned: 149
   - vichy_brown_unfilled_light_unlabeled_open: 67
   - euro_brown_overfilled_transparent_labeled_open: 57
@@ -196,21 +195,21 @@ Unique combinations: 101
   - euro_brown_empty_empty_labeled_open: 22
   - kormoran330_brown_filled_light_labeled_open: 21
   - kormoran330_brown_filled_light_labeled_crowned: 18
-  - vichylight_brown_unfilled_transparent_labeled_open: 16
+  - nrw_brown_unfilled_transparent_labeled_open: 16
   - kormoran330_brown_filled_light_unlabeled_crowned: 15
   - longneck330_brown_filled_light_unlabeled_open: 15
   - vichy_brown_overfilled_transparent_unlabeled_open: 15
   - bugel_brown_empty_empty_unlabeled_open: 14
   - kormoran330_brown_empty_empty_unlabeled_open: 14
+  - nrw_brown_overfilled_transparent_labeled_open: 14
   - steine_green_empty_empty_labeled_crowned: 14
   - vichy_brown_filled_transparent_unlabeled_open: 14
-  - vichylight_brown_overfilled_transparent_labeled_open: 14
   - bugel_brown_filled_light_unlabeled_open: 13
   - longneck330_brown_empty_empty_unlabeled_open: 13
+  - nrw_brown_filled_transparent_labeled_open: 13
   - steine_green_empty_empty_labeled_open: 13
   - steine_green_filled_light_labeled_open: 13
   - vichy_brown_empty_empty_labeled_open: 13
-  - vichylight_brown_filled_transparent_labeled_open: 13
   - bugel_brown_filled_light_unlabeled_crowned: 12
   - kormoran330_brown_overfilled_light_labeled_crowned: 12
   - kormoran330_brown_overfilled_light_labeled_open: 12
@@ -231,19 +230,19 @@ Unique combinations: 101
   - longneck330_brown_filled_light_unlabeled_crowned: 10
   - longneck330_brown_overfilled_light_unlabeled_crowned: 10
   - longneck330_brown_overfilled_light_unlabeled_open: 10
+  - nrw_brown_filled_dark_labeled_crowned: 10
   - steine_brown_unfilled_light_labeled_crowned: 10
   - steine_green_filled_light_labeled_crowned: 10
-  - vichylight_brown_filled_dark_labeled_crowned: 10
   - bugel_brown_filled_dark_unlabeled_crowned: 9
   - kormoran330_brown_empty_empty_unlabeled_crowned: 9
   - kormoran330_brown_unfilled_light_unlabeled_open: 9
   - longneck330_brown_filled_transparent_unlabeled_crowned: 9
   - longneck330_brown_unfilled_light_unlabeled_crowned: 9
+  - nrw_brown_empty_empty_labeled_open: 9
   - steine_brown_empty_empty_labeled_open: 9
   - steine_brown_filled_light_labeled_open: 9
   - steine_brown_filled_light_unlabeled_crowned: 9
   - steine_brown_unfilled_light_unlabeled_crowned: 9
-  - vichylight_brown_empty_empty_labeled_open: 9
   - kormoran330_brown_filled_transparent_unlabeled_open: 8
   - steine_green_unfilled_light_labeled_crowned: 8
   - vichy_brown_filled_transparent_unlabeled_crowned: 8
@@ -272,8 +271,6 @@ Unique combinations: 101
   - steine_brown_overfilled_light_unlabeled_crowned: 4
   - steine_green_overfilled_light_labeled_crowned: 4
   - bugel_brown_empty_empty_labeled_crowned: 3
-  - kraft_brown_filled_transparent_labeled_crowned: 3
-  - kraft_brown_filled_transparent_labeled_open: 3
   - vichy_brown_overfilled_dark_unlabeled_crowned: 3
   - vichy_brown_overfilled_light_unlabeled_crowned: 3
   - bugel_brown_empty_empty_unlabeled_crowned: 2
@@ -281,6 +278,15 @@ Unique combinations: 101
   - steine_green_overfilled_light_labeled_open: 2
   - tulip_brown_empty_empty_labeled_open: 1
 ```
+#### Bottle types
+  - bugel: https://katalog.vetropack.com/catalogue/detail/26821
+  - euro: https://katalog.vetropack.com/catalogue/detail/16931
+  - kormoran330: custom bottle
+  - longneck330: https://katalog.vetropack.com/catalogue/detail/36950
+  - nrw: https://katalog.vetropack.com/catalogue/detail/31782
+  - steine: https://katalog.vetropack.com/catalogue/detail/31470
+  - tulip: https://katalog.vetropack.com/catalogue/detail/34120
+  - vichy: https://katalog.vetropack.com/catalogue/detail/30525
 
 ### Citation
 If you use this dataset, please cite:
