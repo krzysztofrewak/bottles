@@ -2,6 +2,7 @@
 __pycache__
 images_temp
 images_backup
+.DS_Store
 
 *.py[codz]
 *$py.class
