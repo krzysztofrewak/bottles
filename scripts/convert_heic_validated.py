@@ -17,7 +17,7 @@ def convert_heic_validated(heic_path: Path, output_quality: int = 95) -> bool:
         if img.mode != "RGB":
             img = img.convert("RGB")
 
-        jpg_path = heic_path.with_suffix(".jpg")
+        jpg_path = heic_path.with_suffix(".JPG")
 
         img.save(
             jpg_path,
