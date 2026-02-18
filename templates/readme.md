@@ -147,6 +147,7 @@ pytest -q
   - steine: https://katalog.vetropack.com/catalogue/detail/31470
   - tulip: https://katalog.vetropack.com/catalogue/detail/34120
   - vichy: https://katalog.vetropack.com/catalogue/detail/30525
+  - gundola: https://katalog.vetropack.com/catalogue/detail/31806
 
 ### Citation
 If you use this dataset, please cite:
