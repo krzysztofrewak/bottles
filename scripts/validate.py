@@ -6,7 +6,7 @@ from .utils import parse_filename, ATTR_FIELDS
 IMAGES_DIR = Path("images")
 
 ALLOWED_VALUES = {
-    "type": ["euro", "vichy", "nrw", "bugel", "amber", "tulip", "steine", "kormoran330", "kormoran500", "longneck330"],
+    "type": ["euro", "vichy", "nrw", "bugel", "amber", "tulip", "steine", "kormoran330", "kormoran500", "longneck330", "gundola"],
     "color": ["transparent", "brown", "green"],
     "fill": ["filled", "unfilled", "overfilled", "empty"],
     "liquid": ["transparent", "light", "dark", "black", "empty"],

@@ -711,6 +711,87 @@
     "cap": "open"
   },
   {
+    "filename": "euro_brown_empty_empty_labeled_crowned_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_labeled_crowned_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_labeled_crowned_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_labeled_crowned_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_labeled_crowned_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_labeled_crowned_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_labeled_crowned_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_labeled_crowned_008.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_labeled_crowned_009.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
     "filename": "euro_brown_empty_empty_labeled_open_001.jpg",
     "type": "euro",
     "color": "brown",
@@ -909,6 +990,60 @@
     "cap": "open"
   },
   {
+    "filename": "euro_brown_empty_empty_unlabeled_crowned_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_unlabeled_crowned_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_unlabeled_crowned_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_unlabeled_crowned_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_unlabeled_crowned_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_empty_empty_unlabeled_crowned_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
     "filename": "euro_brown_empty_empty_unlabeled_open_001.jpg",
     "type": "euro",
     "color": "brown",
@@ -1033,6 +1168,240 @@
     "liquid": "black",
     "label": "labeled",
     "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_crowned_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_crowned_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_crowned_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_crowned_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_crowned_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_crowned_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_crowned_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_open_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_open_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_open_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_labeled_open_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_008.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_crowned_009.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_open_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_open_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_open_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_open_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_open_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_filled_dark_unlabeled_open_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
   },
   {
     "filename": "euro_brown_filled_transparent_labeled_open_001.JPG",
@@ -1445,6 +1814,231 @@
     "color": "brown",
     "fill": "filled",
     "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_crowned_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_crowned_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_crowned_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_crowned_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_crowned_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_crowned_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_open_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_open_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_open_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_open_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_open_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_open_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_labeled_open_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_crowned_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_crowned_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_crowned_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_crowned_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_open_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_open_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_open_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_open_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_open_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_open_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_open_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_overfilled_dark_unlabeled_open_008.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
     "label": "unlabeled",
     "cap": "open"
   },
@@ -2061,6 +2655,321 @@
     "cap": "open"
   },
   {
+    "filename": "euro_brown_unfilled_dark_labeled_crowned_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_crowned_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_crowned_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_crowned_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_crowned_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_crowned_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_crowned_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_008.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_009.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_010.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_011.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_012.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_labeled_open_013.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_crowned_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_crowned_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_crowned_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_crowned_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_crowned_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_crowned_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_crowned_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_crowned_008.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_open_001.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_open_002.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_open_003.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_open_004.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_open_005.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_open_006.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "euro_brown_unfilled_dark_unlabeled_open_007.jpg",
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
     "filename": "euro_brown_unfilled_transparent_labeled_open_001.JPG",
     "type": "euro",
     "color": "brown",
@@ -2634,6 +3543,717 @@
     "fill": "unfilled",
     "liquid": "transparent",
     "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_crowned_001.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_crowned_002.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_crowned_003.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_crowned_004.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_crowned_005.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_crowned_006.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_crowned_007.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_open_001.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_open_002.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_open_003.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_open_004.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_open_005.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_open_006.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_empty_empty_labeled_open_007.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_001.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_002.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_003.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_004.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_005.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_006.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_007.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_008.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_009.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_crowned_010.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_001.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_002.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_003.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_004.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_005.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_006.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_007.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_008.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_009.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_010.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_011.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_filled_transparent_labeled_open_012.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_crowned_001.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_crowned_002.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_crowned_003.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_crowned_004.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_crowned_005.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_open_001.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_open_002.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_open_003.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_open_004.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_open_005.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_open_006.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_overfilled_transparent_labeled_open_007.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_001.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_002.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_003.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_004.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_005.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_006.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_007.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_008.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_009.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_010.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_011.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_012.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_013.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_014.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_015.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_crowned_016.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_001.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_002.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_003.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_004.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_005.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_006.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_007.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_008.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_009.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_010.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_011.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_012.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_013.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_014.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "gundola_brown_unfilled_transparent_labeled_open_015.jpg",
+    "type": "gundola",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
     "cap": "open"
   },
   {
@@ -4500,6 +6120,42 @@
     "cap": "crowned"
   },
   {
+    "filename": "longneck330_brown_empty_empty_unlabeled_crowned_012.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_empty_empty_unlabeled_crowned_013.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_empty_empty_unlabeled_crowned_014.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_empty_empty_unlabeled_crowned_015.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
     "filename": "longneck330_brown_empty_empty_unlabeled_open_001.jpg",
     "type": "longneck330",
     "color": "brown",
@@ -4613,6 +6269,123 @@
     "color": "brown",
     "fill": "empty",
     "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_empty_empty_unlabeled_open_014.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_empty_empty_unlabeled_open_015.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_empty_empty_unlabeled_open_016.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_empty_empty_unlabeled_open_017.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_empty_empty_unlabeled_open_018.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_dark_unlabeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_dark_unlabeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_dark_unlabeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_dark_unlabeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_dark_unlabeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_dark_unlabeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_dark_unlabeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_dark_unlabeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
     "label": "unlabeled",
     "cap": "open"
   },
@@ -4923,6 +6696,60 @@
     "cap": "crowned"
   },
   {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_010.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_011.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_012.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_013.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_014.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_015.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
     "filename": "longneck330_brown_filled_transparent_unlabeled_open_001.jpg",
     "type": "longneck330",
     "color": "brown",
@@ -4937,6 +6764,150 @@
     "color": "brown",
     "fill": "filled",
     "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_open_005.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_open_006.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_open_007.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_open_008.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_filled_transparent_unlabeled_open_009.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_005.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_dark_unlabeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
     "label": "unlabeled",
     "cap": "open"
   },
@@ -5117,6 +7088,222 @@
     "color": "brown",
     "fill": "overfilled",
     "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_005.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_006.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_007.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_005.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_006.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_007.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_open_005.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_dark_unlabeled_open_006.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
     "label": "unlabeled",
     "cap": "open"
   },
@@ -5307,6 +7494,870 @@
     "fill": "unfilled",
     "liquid": "light",
     "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_005.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_006.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_007.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_008.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_009.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_010.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_005.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_006.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_007.jpg",
+    "type": "longneck330",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_crowned_005.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_crowned_006.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_crowned_007.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_005.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_006.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_007.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_008.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_empty_empty_labeled_open_009.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_005.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_006.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_007.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_008.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_009.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_crowned_010.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_005.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_006.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_007.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_008.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_009.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_010.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_011.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_filled_transparent_labeled_open_012.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_crowned_005.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_crowned_006.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_005.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_006.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_007.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_008.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_overfilled_transparent_labeled_open_009.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_001.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_002.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_003.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_004.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_005.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_006.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_007.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_008.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_009.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_010.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_011.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_012.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_013.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_crowned_014.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_001.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_002.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_003.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_004.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_005.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_006.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_007.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_008.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_009.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_010.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_011.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "longneck330_green_unfilled_transparent_labeled_open_012.jpg",
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
     "cap": "open"
   },
   {
@@ -8388,6 +11439,78 @@
     "cap": "crowned"
   },
   {
+    "filename": "steine_brown_empty_empty_labeled_crowned_012.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_013.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_014.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_015.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_016.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_017.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_018.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_crowned_019.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
     "filename": "steine_brown_empty_empty_labeled_open_001.jpg",
     "type": "steine",
     "color": "brown",
@@ -8461,6 +11584,42 @@
   },
   {
     "filename": "steine_brown_empty_empty_labeled_open_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_010.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_011.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_012.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_empty_empty_labeled_open_013.jpg",
     "type": "steine",
     "color": "brown",
     "fill": "empty",
@@ -8910,6 +12069,141 @@
     "cap": "open"
   },
   {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_filled_transparent_labeled_open_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
     "filename": "steine_brown_overfilled_light_labeled_crowned_001.jpg",
     "type": "steine",
     "color": "brown",
@@ -9052,6 +12346,132 @@
     "liquid": "light",
     "label": "unlabeled",
     "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_overfilled_transparent_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
   },
   {
     "filename": "steine_brown_unfilled_light_labeled_crowned_001.jpg",
@@ -9321,6 +12741,213 @@
     "fill": "unfilled",
     "liquid": "light",
     "label": "unlabeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_010.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_011.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_012.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_crowned_013.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_001.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_002.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_003.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_004.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_005.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_006.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_007.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_008.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_009.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "steine_brown_unfilled_transparent_labeled_open_010.jpg",
+    "type": "steine",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
     "cap": "open"
   },
   {
@@ -10575,6 +14202,114 @@
     "cap": "crowned"
   },
   {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_018.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_019.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_020.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_021.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_022.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_023.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_024.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_025.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_026.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_027.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_028.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_empty_empty_labeled_crowned_029.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
     "filename": "tulip_brown_empty_empty_labeled_open_001.jpg",
     "type": "tulip",
     "color": "brown",
@@ -11075,6 +14810,78 @@
     "color": "brown",
     "fill": "filled",
     "liquid": "black",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_filled_dark_labeled_crowned_001.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_filled_dark_labeled_crowned_002.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_filled_dark_labeled_crowned_003.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_filled_dark_labeled_crowned_004.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_filled_dark_labeled_open_001.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_filled_dark_labeled_open_002.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_filled_dark_labeled_open_003.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_filled_dark_labeled_open_004.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "dark",
     "label": "labeled",
     "cap": "open"
   },
@@ -11862,6 +15669,78 @@
     "cap": "open"
   },
   {
+    "filename": "tulip_brown_overfilled_dark_labeled_crowned_001.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_overfilled_dark_labeled_crowned_002.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_overfilled_dark_labeled_crowned_003.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_overfilled_dark_labeled_crowned_004.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_overfilled_dark_labeled_crowned_005.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_overfilled_dark_labeled_open_001.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_overfilled_dark_labeled_open_002.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_overfilled_dark_labeled_open_003.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
     "filename": "tulip_brown_overfilled_light_labeled_crowned_001.jpg",
     "type": "tulip",
     "color": "brown",
@@ -12427,6 +16306,339 @@
     "liquid": "black",
     "label": "labeled",
     "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_001.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_002.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_003.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_004.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_005.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_006.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_007.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_008.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_009.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_010.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_011.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_012.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_013.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_014.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_015.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_016.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_017.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_018.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_019.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_020.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_021.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_022.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_023.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_crowned_024.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "crowned"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_001.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_002.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_003.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_004.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_005.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_006.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_007.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_008.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_009.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_010.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_011.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_012.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
+  },
+  {
+    "filename": "tulip_brown_unfilled_dark_labeled_open_013.jpg",
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "dark",
+    "label": "labeled",
+    "cap": "open"
   },
   {
     "filename": "tulip_brown_unfilled_light_labeled_crowned_001.jpg",

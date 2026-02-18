@@ -1265,6 +1265,150 @@
       }
     },
     {
+      "filename": "euro_brown_empty_empty_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
       "filename": "euro_brown_empty_empty_labeled_open_001.jpg",
       "extension": "jpg",
       "collection": {
@@ -1617,6 +1761,102 @@
       }
     },
     {
+      "filename": "euro_brown_empty_empty_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_empty_empty_unlabeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
       "filename": "euro_brown_empty_empty_unlabeled_open_001.jpg",
       "extension": "jpg",
       "collection": {
@@ -1838,6 +2078,422 @@
         "liquid": "black",
         "label": "labeled",
         "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 4
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 4
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 4
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 4
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 9
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_filled_dark_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
       }
     },
     {
@@ -2572,6 +3228,406 @@
         "color": "brown",
         "fill": "filled",
         "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 6
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 4
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 4
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 4
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 4
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_overfilled_dark_unlabeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
         "label": "unlabeled",
         "cap": "open"
       }
@@ -3665,6 +4721,566 @@
       }
     },
     {
+      "filename": "euro_brown_unfilled_dark_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_labeled_open_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 13
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 8
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "euro_brown_unfilled_dark_unlabeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "euro",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
       "filename": "euro_brown_unfilled_transparent_labeled_open_001.JPG",
       "extension": "jpg",
       "collection": {
@@ -4685,6 +6301,1270 @@
         "fill": "unfilled",
         "liquid": "transparent",
         "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_empty_empty_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 10
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_filled_transparent_labeled_open_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 12
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 5
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 5
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 5
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 5
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 5
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_overfilled_transparent_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_crowned_016.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 16
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "gundola_brown_unfilled_transparent_labeled_open_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 15
+      },
+      "parameters": {
+        "type": "gundola",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
         "cap": "open"
       }
     },
@@ -7829,7 +10709,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7845,7 +10725,7 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7861,7 +10741,7 @@
       "extension": "jpg",
       "collection": {
         "index": 3,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7877,7 +10757,7 @@
       "extension": "jpg",
       "collection": {
         "index": 4,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7893,7 +10773,7 @@
       "extension": "jpg",
       "collection": {
         "index": 5,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7909,7 +10789,7 @@
       "extension": "jpg",
       "collection": {
         "index": 6,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7925,7 +10805,7 @@
       "extension": "jpg",
       "collection": {
         "index": 7,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7941,7 +10821,7 @@
       "extension": "jpg",
       "collection": {
         "index": 8,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7957,7 +10837,7 @@
       "extension": "jpg",
       "collection": {
         "index": 9,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7973,7 +10853,7 @@
       "extension": "jpg",
       "collection": {
         "index": 10,
-        "of": 11
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -7989,7 +10869,71 @@
       "extension": "jpg",
       "collection": {
         "index": 11,
-        "of": 11
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_crowned_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8005,7 +10949,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8021,7 +10965,7 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8037,7 +10981,7 @@
       "extension": "jpg",
       "collection": {
         "index": 3,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8053,7 +10997,7 @@
       "extension": "jpg",
       "collection": {
         "index": 4,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8069,7 +11013,7 @@
       "extension": "jpg",
       "collection": {
         "index": 5,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8085,7 +11029,7 @@
       "extension": "jpg",
       "collection": {
         "index": 6,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8101,7 +11045,7 @@
       "extension": "jpg",
       "collection": {
         "index": 7,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8117,7 +11061,7 @@
       "extension": "jpg",
       "collection": {
         "index": 8,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8133,7 +11077,7 @@
       "extension": "jpg",
       "collection": {
         "index": 9,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8149,7 +11093,7 @@
       "extension": "jpg",
       "collection": {
         "index": 10,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8165,7 +11109,7 @@
       "extension": "jpg",
       "collection": {
         "index": 11,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8181,7 +11125,7 @@
       "extension": "jpg",
       "collection": {
         "index": 12,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
@@ -8197,13 +11141,221 @@
       "extension": "jpg",
       "collection": {
         "index": 13,
-        "of": 13
+        "of": 18
       },
       "parameters": {
         "type": "longneck330",
         "color": "brown",
         "fill": "empty",
         "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_open_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 18
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_open_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 18
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_open_016.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 18
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_open_017.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 17,
+        "of": 18
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_empty_empty_unlabeled_open_018.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 18,
+        "of": 18
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
         "label": "unlabeled",
         "cap": "open"
       }
@@ -8613,7 +11765,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 9
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8629,7 +11781,7 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 9
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8645,7 +11797,7 @@
       "extension": "jpg",
       "collection": {
         "index": 3,
-        "of": 9
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8661,7 +11813,7 @@
       "extension": "jpg",
       "collection": {
         "index": 4,
-        "of": 9
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8677,7 +11829,7 @@
       "extension": "jpg",
       "collection": {
         "index": 5,
-        "of": 9
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8693,7 +11845,7 @@
       "extension": "jpg",
       "collection": {
         "index": 6,
-        "of": 9
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8709,7 +11861,7 @@
       "extension": "jpg",
       "collection": {
         "index": 7,
-        "of": 9
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8725,7 +11877,7 @@
       "extension": "jpg",
       "collection": {
         "index": 8,
-        "of": 9
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8741,7 +11893,103 @@
       "extension": "jpg",
       "collection": {
         "index": 9,
-        "of": 9
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 15
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_crowned_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 15
       },
       "parameters": {
         "type": "longneck330",
@@ -8757,7 +12005,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 2
+        "of": 9
       },
       "parameters": {
         "type": "longneck330",
@@ -8773,13 +12021,269 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 2
+        "of": 9
       },
       "parameters": {
         "type": "longneck330",
         "color": "brown",
         "fill": "filled",
         "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_filled_transparent_unlabeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 5
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 5
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 5
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 5
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 5
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
         "label": "unlabeled",
         "cap": "open"
       }
@@ -9100,6 +12604,390 @@
         "color": "brown",
         "fill": "overfilled",
         "liquid": "light",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 4
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_overfilled_transparent_unlabeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_dark_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
         "label": "unlabeled",
         "cap": "open"
       }
@@ -9437,6 +13325,1542 @@
         "fill": "unfilled",
         "liquid": "light",
         "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_brown_unfilled_transparent_unlabeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_empty_empty_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 10
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_filled_transparent_labeled_open_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 6
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_overfilled_transparent_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 9
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 14
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "longneck330_green_unfilled_transparent_labeled_open_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 12
+      },
+      "parameters": {
+        "type": "longneck330",
+        "color": "green",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
         "cap": "open"
       }
     },
@@ -14741,7 +20165,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14757,7 +20181,7 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14773,7 +20197,7 @@
       "extension": "jpg",
       "collection": {
         "index": 3,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14789,7 +20213,7 @@
       "extension": "jpg",
       "collection": {
         "index": 4,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14805,7 +20229,7 @@
       "extension": "jpg",
       "collection": {
         "index": 5,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14821,7 +20245,7 @@
       "extension": "jpg",
       "collection": {
         "index": 6,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14837,7 +20261,7 @@
       "extension": "jpg",
       "collection": {
         "index": 7,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14853,7 +20277,7 @@
       "extension": "jpg",
       "collection": {
         "index": 8,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14869,7 +20293,7 @@
       "extension": "jpg",
       "collection": {
         "index": 9,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14885,7 +20309,7 @@
       "extension": "jpg",
       "collection": {
         "index": 10,
-        "of": 11
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14901,7 +20325,135 @@
       "extension": "jpg",
       "collection": {
         "index": 11,
-        "of": 11
+        "of": 19
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 19
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 19
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 19
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_crowned_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 19
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_crowned_016.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 19
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_crowned_017.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 17,
+        "of": 19
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_crowned_018.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 18,
+        "of": 19
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_crowned_019.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 19,
+        "of": 19
       },
       "parameters": {
         "type": "steine",
@@ -14917,7 +20469,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 9
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -14933,7 +20485,7 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 9
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -14949,7 +20501,7 @@
       "extension": "jpg",
       "collection": {
         "index": 3,
-        "of": 9
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -14965,7 +20517,7 @@
       "extension": "jpg",
       "collection": {
         "index": 4,
-        "of": 9
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -14981,7 +20533,7 @@
       "extension": "jpg",
       "collection": {
         "index": 5,
-        "of": 9
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -14997,7 +20549,7 @@
       "extension": "jpg",
       "collection": {
         "index": 6,
-        "of": 9
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -15013,7 +20565,7 @@
       "extension": "jpg",
       "collection": {
         "index": 7,
-        "of": 9
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -15029,7 +20581,7 @@
       "extension": "jpg",
       "collection": {
         "index": 8,
-        "of": 9
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -15045,7 +20597,71 @@
       "extension": "jpg",
       "collection": {
         "index": 9,
-        "of": 9
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_open_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_open_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_empty_empty_labeled_open_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 13
       },
       "parameters": {
         "type": "steine",
@@ -15841,6 +21457,246 @@
       }
     },
     {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 6
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 6
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 6
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 6
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 6
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_filled_transparent_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 6
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
       "filename": "steine_brown_overfilled_light_labeled_crowned_001.jpg",
       "extension": "jpg",
       "collection": {
@@ -16094,6 +21950,230 @@
         "liquid": "light",
         "label": "unlabeled",
         "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 9
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 5
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 5
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 5
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 5
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_overfilled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 5
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
       }
     },
     {
@@ -16573,6 +22653,374 @@
         "fill": "unfilled",
         "liquid": "light",
         "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 13
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "steine_brown_unfilled_transparent_labeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 10
+      },
+      "parameters": {
+        "type": "steine",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "transparent",
+        "label": "labeled",
         "cap": "open"
       }
     },
@@ -18533,7 +24981,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18549,7 +24997,7 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18565,7 +25013,7 @@
       "extension": "jpg",
       "collection": {
         "index": 3,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18581,7 +25029,7 @@
       "extension": "jpg",
       "collection": {
         "index": 4,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18597,7 +25045,7 @@
       "extension": "jpg",
       "collection": {
         "index": 5,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18613,7 +25061,7 @@
       "extension": "jpg",
       "collection": {
         "index": 6,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18629,7 +25077,7 @@
       "extension": "jpg",
       "collection": {
         "index": 7,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18645,7 +25093,7 @@
       "extension": "jpg",
       "collection": {
         "index": 8,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18661,7 +25109,7 @@
       "extension": "jpg",
       "collection": {
         "index": 9,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18677,7 +25125,7 @@
       "extension": "jpg",
       "collection": {
         "index": 10,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18693,7 +25141,7 @@
       "extension": "jpg",
       "collection": {
         "index": 11,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18709,7 +25157,7 @@
       "extension": "jpg",
       "collection": {
         "index": 12,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18725,7 +25173,7 @@
       "extension": "jpg",
       "collection": {
         "index": 13,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18741,7 +25189,7 @@
       "extension": "jpg",
       "collection": {
         "index": 14,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18757,7 +25205,7 @@
       "extension": "jpg",
       "collection": {
         "index": 15,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18773,7 +25221,7 @@
       "extension": "jpg",
       "collection": {
         "index": 16,
-        "of": 17
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -18789,7 +25237,199 @@
       "extension": "jpg",
       "collection": {
         "index": 17,
-        "of": 17
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_018.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 18,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_019.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 19,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_020.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 20,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_021.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 21,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_022.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 22,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_023.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 23,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_024.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 24,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_025.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 25,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_026.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 26,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_027.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 27,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_028.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 28,
+        "of": 29
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_labeled_crowned_029.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 29,
+        "of": 29
       },
       "parameters": {
         "type": "tulip",
@@ -19692,6 +26332,134 @@
         "color": "brown",
         "fill": "filled",
         "liquid": "black",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 4
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 4
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 4
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 4
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 4
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 4
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 4
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 4
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
         "label": "labeled",
         "cap": "open"
       }
@@ -21089,6 +27857,134 @@
       }
     },
     {
+      "filename": "tulip_brown_overfilled_dark_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 5
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 5
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 5
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 5
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 5
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 3
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 3
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 3
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
       "filename": "tulip_brown_overfilled_light_labeled_crowned_001.jpg",
       "extension": "jpg",
       "collection": {
@@ -22094,6 +28990,598 @@
         "liquid": "black",
         "label": "labeled",
         "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_016.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_017.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 17,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_018.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 18,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_019.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 19,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_020.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 20,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_021.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 21,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_022.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 22,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_023.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 23,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_crowned_024.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 24,
+        "of": 24
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_labeled_open_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 13
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "labeled",
+        "cap": "open"
       }
     },
     {
