@@ -30,6 +30,24 @@
     "type": "bugel",
     "color": "brown",
     "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 11
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 14
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "filled",
     "liquid": "dark",
     "label": "unlabeled",
     "cap": "crowned",
@@ -65,11 +83,65 @@
   {
     "type": "bugel",
     "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 13
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 17
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 9
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 10
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
     "fill": "overfilled",
     "liquid": "dark",
     "label": "unlabeled",
     "cap": "crowned",
     "count": 4
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 13
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 16
   },
   {
     "type": "bugel",
@@ -88,6 +160,24 @@
     "label": "unlabeled",
     "cap": "open",
     "count": 5
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 8
+  },
+  {
+    "type": "bugel",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 9
   },
   {
     "type": "euro",
@@ -132,7 +222,16 @@
     "liquid": "black",
     "label": "labeled",
     "cap": "crowned",
-    "count": 7
+    "count": 25
+  },
+  {
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 11
   },
   {
     "type": "euro",
@@ -513,6 +612,186 @@
     "count": 9
   },
   {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 13
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open",
+    "count": 6
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 16
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 20
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 5
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 10
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 20
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open",
+    "count": 22
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 13
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 11
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 38
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open",
+    "count": 19
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 7
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 7
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 4
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 3
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 7
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 6
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 4
+  },
+  {
+    "type": "kormoran500",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 9
+  },
+  {
     "type": "longneck330",
     "color": "brown",
     "fill": "empty",
@@ -714,6 +993,60 @@
     "type": "longneck330",
     "color": "green",
     "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 7
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 5
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 45
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open",
+    "count": 43
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 11
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 7
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "filled",
     "liquid": "transparent",
     "label": "labeled",
     "cap": "crowned",
@@ -727,6 +1060,33 @@
     "label": "labeled",
     "cap": "open",
     "count": 12
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 7
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 7
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open",
+    "count": 7
   },
   {
     "type": "longneck330",
@@ -750,6 +1110,24 @@
     "type": "longneck330",
     "color": "green",
     "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 16
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open",
+    "count": 11
+  },
+  {
+    "type": "longneck330",
+    "color": "green",
+    "fill": "unfilled",
     "liquid": "transparent",
     "label": "labeled",
     "cap": "crowned",
@@ -763,6 +1141,87 @@
     "label": "labeled",
     "cap": "open",
     "count": 12
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "open",
+    "count": 9
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 5
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "labeled",
+    "cap": "open",
+    "count": 5
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 39
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open",
+    "count": 29
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 18
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open",
+    "count": 22
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 19
+  },
+  {
+    "type": "longneck330",
+    "color": "transparent",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "open",
+    "count": 25
   },
   {
     "type": "nrw",
@@ -795,10 +1254,46 @@
     "type": "nrw",
     "color": "brown",
     "fill": "filled",
+    "liquid": "black",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 8
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "labeled",
+    "cap": "open",
+    "count": 9
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 5
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 5
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "filled",
     "liquid": "dark",
     "label": "labeled",
     "cap": "crowned",
-    "count": 15
+    "count": 28
   },
   {
     "type": "nrw",
@@ -869,8 +1364,17 @@
     "fill": "filled",
     "liquid": "transparent",
     "label": "labeled",
+    "cap": "crowned",
+    "count": 6
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
     "cap": "open",
-    "count": 21
+    "count": 28
   },
   {
     "type": "nrw",
@@ -886,6 +1390,42 @@
     "color": "brown",
     "fill": "filled",
     "liquid": "transparent",
+    "label": "unlabeled",
+    "cap": "open",
+    "count": 7
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "black",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 8
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "black",
+    "label": "labeled",
+    "cap": "open",
+    "count": 6
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 6
+  },
+  {
+    "type": "nrw",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "black",
     "label": "unlabeled",
     "cap": "open",
     "count": 7
@@ -1122,7 +1662,7 @@
     "liquid": "light",
     "label": "labeled",
     "cap": "crowned",
-    "count": 12
+    "count": 24
   },
   {
     "type": "steine",
@@ -1516,9 +2056,27 @@
     "color": "brown",
     "fill": "filled",
     "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 26
+  },
+  {
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open",
+    "count": 23
+  },
+  {
+    "type": "tulip",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "transparent",
     "label": "unlabeled",
     "cap": "crowned",
-    "count": 6
+    "count": 26
   },
   {
     "type": "tulip",
@@ -1527,7 +2085,7 @@
     "liquid": "transparent",
     "label": "unlabeled",
     "cap": "open",
-    "count": 5
+    "count": 28
   },
   {
     "type": "tulip",
@@ -1604,11 +2162,38 @@
   {
     "type": "tulip",
     "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 24
+  },
+  {
+    "type": "tulip",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open",
+    "count": 22
+  },
+  {
+    "type": "tulip",
+    "color": "brown",
     "fill": "unfilled",
     "liquid": "black",
     "label": "labeled",
     "cap": "crowned",
-    "count": 6
+    "count": 33
+  },
+  {
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "black",
+    "label": "unlabeled",
+    "cap": "crowned",
+    "count": 24
   },
   {
     "type": "tulip",
@@ -1681,6 +2266,24 @@
     "label": "unlabeled",
     "cap": "open",
     "count": 11
+  },
+  {
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 9
+  },
+  {
+    "type": "tulip",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "transparent",
+    "label": "labeled",
+    "cap": "open",
+    "count": 9
   },
   {
     "type": "tulip",
