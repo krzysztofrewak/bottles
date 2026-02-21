@@ -139,12 +139,12 @@ pytest -q
 
 ### Dataset Statistics
 ```
-Date: 2026-02-18
-Total images: 2837
+Date: 2026-02-21
+Total images: 2940
 
 Attribute distributions:
 - type:
-  - tulip: 733
+  - tulip: 836
   - vichy: 543
   - nrw: 331
   - euro: 315
@@ -154,32 +154,32 @@ Attribute distributions:
   - bugel: 79
   - gundola: 79
 - color:
-  - brown: 2254
+  - brown: 2357
   - transparent: 382
   - green: 201
 - fill:
-  - filled: 1014
-  - unfilled: 759
-  - overfilled: 547
-  - empty: 517
+  - filled: 1041
+  - unfilled: 792
+  - overfilled: 564
+  - empty: 543
 - liquid:
   - light: 1026
   - transparent: 810
-  - empty: 517
-  - dark: 331
+  - empty: 543
+  - dark: 408
   - black: 153
 - label:
   - labeled: 1714
-  - unlabeled: 1123
+  - unlabeled: 1226
 - cap:
-  - open: 1566
-  - crowned: 1271
+  - open: 1618
+  - crowned: 1322
 
 File extensions:
-  - jpg: 2673
+  - jpg: 2776
   - heic: 164
 
-Unique combinations: 231
+Unique combinations: 237
   - vichy_brown_filled_light_labeled_crowned: 149
   - vichy_brown_unfilled_light_unlabeled_open: 67
   - euro_brown_overfilled_transparent_labeled_open: 57
@@ -192,6 +192,7 @@ Unique combinations: 231
   - vichy_brown_filled_dark_labeled_crowned: 31
   - tulip_brown_empty_empty_labeled_crowned: 29
   - vichy_brown_filled_light_labeled_open: 29
+  - tulip_brown_empty_empty_unlabeled_open: 28
   - vichy_brown_empty_empty_labeled_crowned: 28
   - euro_brown_unfilled_transparent_unlabeled_open: 27
   - kormoran330_brown_unfilled_light_labeled_open: 27
@@ -213,10 +214,13 @@ Unique combinations: 231
   - tulip_transparent_filled_transparent_labeled_open: 20
   - tulip_transparent_overfilled_black_labeled_open: 20
   - steine_brown_empty_empty_labeled_crowned: 19
+  - tulip_brown_empty_empty_unlabeled_crowned: 19
+  - tulip_brown_filled_dark_unlabeled_crowned: 19
   - tulip_brown_overfilled_light_labeled_crowned: 19
   - kormoran330_brown_filled_light_labeled_crowned: 18
   - longneck330_brown_empty_empty_unlabeled_open: 18
   - tulip_brown_overfilled_light_labeled_open: 18
+  - tulip_brown_unfilled_dark_unlabeled_open: 18
   - tulip_transparent_filled_light_labeled_crowned: 18
   - tulip_transparent_filled_transparent_labeled_crowned: 18
   - gundola_brown_unfilled_transparent_labeled_crowned: 16
@@ -227,6 +231,7 @@ Unique combinations: 231
   - longneck330_brown_filled_light_unlabeled_open: 15
   - longneck330_brown_filled_transparent_unlabeled_crowned: 15
   - nrw_brown_filled_dark_labeled_crowned: 15
+  - tulip_brown_unfilled_dark_unlabeled_crowned: 15
   - tulip_transparent_filled_black_labeled_crowned: 15
   - tulip_transparent_unfilled_black_labeled_crowned: 15
   - vichy_brown_overfilled_transparent_unlabeled_open: 15
@@ -255,7 +260,6 @@ Unique combinations: 231
   - longneck330_green_filled_transparent_labeled_open: 12
   - longneck330_green_unfilled_transparent_labeled_open: 12
   - steine_brown_filled_light_labeled_crowned: 12
-  - tulip_brown_empty_empty_unlabeled_open: 12
   - tulip_transparent_filled_black_unlabeled_crowned: 12
   - tulip_transparent_filled_light_unlabeled_crowned: 12
   - tulip_transparent_unfilled_black_labeled_open: 12
@@ -289,6 +293,7 @@ Unique combinations: 231
   - steine_brown_unfilled_light_labeled_crowned: 10
   - steine_brown_unfilled_transparent_labeled_open: 10
   - steine_green_filled_light_labeled_crowned: 10
+  - tulip_brown_overfilled_dark_unlabeled_open: 10
   - tulip_transparent_filled_black_labeled_open: 10
   - tulip_transparent_filled_light_unlabeled_open: 10
   - tulip_transparent_overfilled_light_labeled_open: 10
@@ -308,7 +313,6 @@ Unique combinations: 231
   - steine_brown_filled_transparent_labeled_crowned: 9
   - steine_brown_overfilled_transparent_labeled_crowned: 9
   - steine_brown_unfilled_light_unlabeled_crowned: 9
-  - tulip_brown_empty_empty_unlabeled_crowned: 9
   - tulip_brown_overfilled_light_unlabeled_crowned: 9
   - tulip_transparent_empty_empty_unlabeled_crowned: 9
   - tulip_transparent_unfilled_transparent_labeled_crowned: 9
@@ -321,6 +325,7 @@ Unique combinations: 231
   - nrw_brown_unfilled_light_unlabeled_open: 8
   - nrw_brown_unfilled_transparent_unlabeled_crowned: 8
   - steine_green_unfilled_light_labeled_crowned: 8
+  - tulip_brown_filled_dark_unlabeled_open: 8
   - vichy_brown_filled_transparent_unlabeled_crowned: 8
   - euro_brown_empty_empty_unlabeled_open: 7
   - euro_brown_filled_black_labeled_crowned: 7
@@ -348,6 +353,7 @@ Unique combinations: 231
   - steine_brown_overfilled_light_labeled_crowned: 7
   - steine_green_empty_empty_unlabeled_crowned: 7
   - steine_green_filled_light_unlabeled_open: 7
+  - tulip_brown_overfilled_dark_unlabeled_crowned: 7
   - tulip_transparent_overfilled_light_labeled_crowned: 7
   - vichy_brown_overfilled_transparent_unlabeled_crowned: 7
   - bugel_brown_filled_dark_unlabeled_open: 6

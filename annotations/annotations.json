@@ -25813,7 +25813,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 9
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25829,7 +25829,7 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 9
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25845,7 +25845,7 @@
       "extension": "jpg",
       "collection": {
         "index": 3,
-        "of": 9
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25861,7 +25861,7 @@
       "extension": "jpg",
       "collection": {
         "index": 4,
-        "of": 9
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25877,7 +25877,7 @@
       "extension": "jpg",
       "collection": {
         "index": 5,
-        "of": 9
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25893,7 +25893,7 @@
       "extension": "jpg",
       "collection": {
         "index": 6,
-        "of": 9
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25909,7 +25909,7 @@
       "extension": "jpg",
       "collection": {
         "index": 7,
-        "of": 9
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25925,7 +25925,7 @@
       "extension": "jpg",
       "collection": {
         "index": 8,
-        "of": 9
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25941,7 +25941,167 @@
       "extension": "jpg",
       "collection": {
         "index": 9,
-        "of": 9
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_016.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_017.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 17,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_018.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 18,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_crowned_019.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 19,
+        "of": 19
       },
       "parameters": {
         "type": "tulip",
@@ -25957,7 +26117,7 @@
       "extension": "jpg",
       "collection": {
         "index": 1,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -25973,7 +26133,7 @@
       "extension": "jpg",
       "collection": {
         "index": 2,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -25989,7 +26149,7 @@
       "extension": "jpg",
       "collection": {
         "index": 3,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26005,7 +26165,7 @@
       "extension": "jpg",
       "collection": {
         "index": 4,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26021,7 +26181,7 @@
       "extension": "jpg",
       "collection": {
         "index": 5,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26037,7 +26197,7 @@
       "extension": "jpg",
       "collection": {
         "index": 6,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26053,7 +26213,7 @@
       "extension": "jpg",
       "collection": {
         "index": 7,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26069,7 +26229,7 @@
       "extension": "jpg",
       "collection": {
         "index": 8,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26085,7 +26245,7 @@
       "extension": "jpg",
       "collection": {
         "index": 9,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26101,7 +26261,7 @@
       "extension": "jpg",
       "collection": {
         "index": 10,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26117,7 +26277,7 @@
       "extension": "jpg",
       "collection": {
         "index": 11,
-        "of": 12
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26133,7 +26293,263 @@
       "extension": "jpg",
       "collection": {
         "index": 12,
-        "of": 12
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_016.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_017.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 17,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_018.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 18,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_019.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 19,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_020.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 20,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_021.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 21,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_022.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 22,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_023.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 23,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_024.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 24,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_025.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 25,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_026.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 26,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_027.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 27,
+        "of": 28
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "empty",
+        "liquid": "empty",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_empty_empty_unlabeled_open_028.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 28,
+        "of": 28
       },
       "parameters": {
         "type": "tulip",
@@ -26461,6 +26877,438 @@
         "fill": "filled",
         "liquid": "dark",
         "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_016.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_017.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 17,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_018.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 18,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_crowned_019.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 19,
+        "of": 19
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 8
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 8
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 8
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 8
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 8
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 8
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 8
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_filled_dark_unlabeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 8
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "filled",
+        "liquid": "dark",
+        "label": "unlabeled",
         "cap": "open"
       }
     },
@@ -27981,6 +28829,278 @@
         "fill": "overfilled",
         "liquid": "dark",
         "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 7
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 7
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 7
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 7
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 7
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 7
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 7
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_overfilled_dark_unlabeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 10
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "overfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
         "cap": "open"
       }
     },
@@ -29581,6 +30701,534 @@
         "fill": "unfilled",
         "liquid": "dark",
         "label": "labeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_crowned_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 15
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "crowned"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_001.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 1,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_002.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 2,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_003.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 3,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_004.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 4,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_005.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 5,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_006.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 6,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_007.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 7,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_008.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 8,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_009.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 9,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_010.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 10,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_011.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 11,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_012.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 12,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_013.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 13,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_014.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 14,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_015.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 15,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_016.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 16,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_017.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 17,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
+        "cap": "open"
+      }
+    },
+    {
+      "filename": "tulip_brown_unfilled_dark_unlabeled_open_018.jpg",
+      "extension": "jpg",
+      "collection": {
+        "index": 18,
+        "of": 18
+      },
+      "parameters": {
+        "type": "tulip",
+        "color": "brown",
+        "fill": "unfilled",
+        "liquid": "dark",
+        "label": "unlabeled",
         "cap": "open"
       }
     },
