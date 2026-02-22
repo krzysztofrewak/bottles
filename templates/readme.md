@@ -103,8 +103,8 @@ The generated annotation file contains, for each image:
 Example in JSON format as follows:
 ```json
 {
-  "filename": "vichy_brown_filled_light_labeled_crowned_008.HEIC",
-  "extension": "heic",
+  "filename": "vichy_brown_filled_light_labeled_crowned_008.JPG",
+  "extension": "jpg",
   "collection": {
     "index": 8,
     "of": 72
@@ -138,25 +138,50 @@ pytest -q
 ### Dataset Statistics
 <!-- STATS_START -->
 <!-- STATS_END -->
+
 #### Bottle types
+  - amber: https://katalog.vetropack.com/catalogue/detail/18593
   - bugel: https://katalog.vetropack.com/catalogue/detail/26821
   - euro: https://katalog.vetropack.com/catalogue/detail/16931
+  - gundola: https://katalog.vetropack.com/catalogue/detail/31806
   - kormoran330: custom bottle
-  - longneck330: https://katalog.vetropack.com/catalogue/detail/36950
+  - kormoran500: custom bottle
+  - ksiazece: custom bottle
+  - longneck: https://katalog.vetropack.com/catalogue/detail/36950
   - nrw: https://katalog.vetropack.com/catalogue/detail/31782
   - steine: https://katalog.vetropack.com/catalogue/detail/31470
   - tulip: https://katalog.vetropack.com/catalogue/detail/34120
   - vichy: https://katalog.vetropack.com/catalogue/detail/30525
-  - gundola: https://katalog.vetropack.com/catalogue/detail/31806
+
+![](./types.png)
+
+Reference silhouettes of bottle types included in the dataset, shown to scale in millimetres. From left to right: bugel, euro, longneck, nrw, steine, tulip, vichy, gundola, and amber. The shapes are based on manufacturer specifications available on https://katalog.vetropack.com. Commercial bottle types specific to individual breweries are not included due to the lack of publicly available standardized specifications.
 
 ### Citation
 If you use this dataset, please cite:
 ```
-@dataset{...}
+@dataset{rewak2026,
+    author = {Rewak, Krzysztof and Zygadło, Karol and Jackowski, Mateusz},
+    title = {A Multi-Attribute Dataset of Commercial Bottles},
+    year = {2026},
+    publisher = {Zenodo},
+    doi = {10.5281/zenodo.0000000}
+}
+```
+
+or 
+```
+@misc{rewak2026,
+    author = {Rewak, Krzysztof and Zygadło, Karol and Jackowski, Mateusz},
+    title = {A Multi-Attribute Dataset of Commercial Bottles},
+    year = {2026},
+    publisher = {Zenodo},
+    doi = {10.5281/zenodo.0000000}
+}
 ```
 
 ### License
-For full details regarding dataset and code licensing, please refer to  the [licence.md](licence.md) file included in this repository.
+For full details regarding dataset and code licensing, please refer to the [licence.md](licence.md) file included in this repository.
 
 ### Contact
 For questions, corrections, or contributions, please open an issue or contact the authors.
