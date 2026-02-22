@@ -6,12 +6,12 @@ from .utils import parse_filename, ATTR_FIELDS
 IMAGES_DIR = Path("images")
 
 ALLOWED_VALUES = {
-    "type": ["euro", "vichy", "nrw", "bugel", "amber", "tulip", "steine", "kormoran330", "kormoran500", "longneck330", "gundola"],
-    "color": ["transparent", "brown", "green"],
-    "fill": ["filled", "unfilled", "overfilled", "empty"],
-    "liquid": ["transparent", "light", "dark", "black", "empty"],
+    "type": ["amber", "bugel", "euro", "gundola", "kormoran330", "kormoran500", "ksiazece", "longneck", "nrw", "steine", "tulip", "vichy"],
+    "color": ["brown", "green", "white"],
+    "fill": ["empty", "filled", "overfilled", "unfilled"],
+    "liquid": ["black", "dark", "empty", "light", "transparent"],
     "label": ["labeled", "unlabeled"],
-    "cap": ["crowned", "open"],
+    "cap": ["crowned", "opened"],
 }
 
 
