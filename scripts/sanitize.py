@@ -4,8 +4,11 @@ from pathlib import Path
 
 from PIL import Image, ExifTags
 import cv2
+from pillow_heif import register_heif_opener
 
-IMAGES_DIR = Path("images")
+register_heif_opener()
+
+IMAGES_DIR = Path("images_temp")
 
 
 def apply_exif_orientation(img: Image.Image) -> tuple[Image.Image, bool]:
