@@ -61,7 +61,7 @@ def test_main_missing_files(tmp_path, monkeypatch):
         writer = csv.writer(f, delimiter="\t")
         writer.writerow(["Filename", "Bottle type", "Glass color", "Fill level", 
                         "Liquid color", "Label presence", "Cap presence", "Note"])
-        writer.writerow(["IMG_0001.JPG", "euro", "brown", "filled", "transparent", "labeled", "open", ""])
+        writer.writerow(["IMG_0001.JPG", "euro", "brown", "filled", "transparent", "labeled", "opened", ""])
     
     monkeypatch.setattr("scripts.validate_temp.TEMP_DIR", temp_dir)
     monkeypatch.setattr("scripts.validate_temp.METADATA_FILE", metadata_file)
@@ -107,7 +107,7 @@ def test_main_duplicate_content(tmp_path, monkeypatch):
         writer = csv.writer(f, delimiter="\t")
         writer.writerow(["Filename", "Bottle type", "Glass color", "Fill level",
                         "Liquid color", "Label presence", "Cap presence", "Note"])
-        writer.writerow(["IMG_0001.JPG", "euro", "brown", "filled", "transparent", "labeled", "open", ""])
+        writer.writerow(["IMG_0001.JPG", "euro", "brown", "filled", "transparent", "labeled", "opened", ""])
         writer.writerow(["IMG_0002.JPG", "euro", "brown", "filled", "transparent", "labeled", "open", ""])
     
     monkeypatch.setattr("scripts.validate_temp.TEMP_DIR", temp_dir)
@@ -130,7 +130,7 @@ def test_main_success(tmp_path, monkeypatch):
         writer = csv.writer(f, delimiter="\t")
         writer.writerow(["Filename", "Bottle type", "Glass color", "Fill level",
                         "Liquid color", "Label presence", "Cap presence", "Note"])
-        writer.writerow(["IMG_0001.JPG", "euro", "brown", "filled", "transparent", "labeled", "open", ""])
+        writer.writerow(["IMG_0001.JPG", "euro", "brown", "filled", "transparent", "labeled", "opened", ""])
     
     monkeypatch.setattr("scripts.validate_temp.TEMP_DIR", temp_dir)
     monkeypatch.setattr("scripts.validate_temp.METADATA_FILE", metadata_file)
