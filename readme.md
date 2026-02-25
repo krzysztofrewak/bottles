@@ -139,78 +139,104 @@ pytest -q
 
 ### Dataset Statistics
 ```
-Date: 2026-02-22
-Total images: 3965
+Date: 2026-02-25
+Total images: 5431
 
 Attribute distributions:
 - type:
   - tulip: 1043
-  - longneck: 597
+  - amber: 794
+  - longneck: 727
   - vichy: 543
+  - euro: 493
   - nrw: 411
-  - euro: 344
+  - kormoran330: 327
   - steine: 313
+  - ksiazece: 262
   - kormoran500: 240
   - bugel: 199
-  - kormoran330: 196
   - gundola: 79
 - color:
-  - brown: 3045
+  - brown: 4511
   - white: 553
   - green: 367
 - fill:
-  - filled: 1616
-  - unfilled: 1004
-  - overfilled: 738
-  - empty: 607
+  - filled: 2035
+  - unfilled: 1329
+  - overfilled: 1068
+  - empty: 999
 - liquid:
-  - light: 1423
+  - light: 2497
   - transparent: 1083
-  - empty: 607
+  - empty: 999
   - black: 431
   - dark: 421
 - label:
-  - labeled: 2359
+  - labeled: 3825
   - unlabeled: 1606
 - cap:
-  - opened: 2078
-  - crowned: 1887
+  - opened: 2800
+  - crowned: 2631
 
 File extensions:
-  - jpg: 3965
+  - jpg: 5431
 
-Unique combinations: 304
+Unique combinations: 334
   - vichy_brown_filled_light_labeled_crowned: 149
+  - amber_brown_filled_light_labeled_opened: 129
+  - amber_brown_filled_light_labeled_crowned: 118
+  - amber_brown_empty_empty_labeled_crowned: 117
+  - amber_brown_empty_empty_labeled_opened: 107
+  - amber_brown_overfilled_light_labeled_crowned: 90
+  - amber_brown_unfilled_light_labeled_opened: 83
+  - amber_brown_overfilled_light_labeled_opened: 78
+  - amber_brown_unfilled_light_labeled_crowned: 72
   - vichy_brown_unfilled_light_unlabeled_opened: 67
   - euro_brown_overfilled_transparent_labeled_opened: 57
   - vichy_brown_empty_empty_unlabeled_crowned: 55
   - longneck_green_filled_light_labeled_crowned: 45
   - longneck_green_filled_light_labeled_opened: 43
+  - kormoran330_brown_unfilled_light_labeled_opened: 42
+  - euro_brown_empty_empty_labeled_opened: 41
   - longneck_white_filled_light_labeled_crowned: 39
+  - kormoran330_brown_filled_light_labeled_opened: 38
   - kormoran500_brown_filled_transparent_labeled_crowned: 38
   - tulip_brown_filled_light_unlabeled_crowned: 38
   - euro_brown_unfilled_transparent_labeled_opened: 37
   - vichy_brown_unfilled_transparent_labeled_opened: 37
+  - kormoran330_brown_filled_light_labeled_crowned: 36
+  - ksiazece_brown_empty_empty_labeled_crowned: 36
   - euro_brown_filled_transparent_labeled_opened: 35
+  - ksiazece_brown_overfilled_light_labeled_opened: 35
+  - ksiazece_brown_overfilled_light_labeled_crowned: 34
   - vichy_brown_overfilled_transparent_labeled_opened: 34
+  - ksiazece_brown_unfilled_light_labeled_crowned: 33
+  - ksiazece_brown_unfilled_light_labeled_opened: 33
   - tulip_brown_unfilled_black_labeled_crowned: 33
+  - ksiazece_brown_filled_light_labeled_opened: 32
   - vichy_brown_filled_dark_labeled_crowned: 31
+  - euro_brown_empty_empty_labeled_crowned: 30
+  - ksiazece_brown_filled_light_labeled_crowned: 30
+  - kormoran330_brown_unfilled_light_labeled_crowned: 29
+  - ksiazece_brown_empty_empty_labeled_opened: 29
   - longneck_white_filled_light_labeled_opened: 29
   - tulip_brown_empty_empty_labeled_crowned: 29
   - vichy_brown_filled_light_labeled_opened: 29
+  - kormoran330_brown_overfilled_light_labeled_crowned: 28
   - nrw_brown_filled_dark_labeled_crowned: 28
   - nrw_brown_filled_transparent_labeled_opened: 28
   - tulip_brown_empty_empty_unlabeled_opened: 28
   - tulip_brown_filled_transparent_unlabeled_opened: 28
   - vichy_brown_empty_empty_labeled_crowned: 28
   - euro_brown_unfilled_transparent_unlabeled_opened: 27
-  - kormoran330_brown_unfilled_light_labeled_opened: 27
+  - kormoran330_brown_overfilled_light_labeled_opened: 27
   - vichy_brown_filled_transparent_labeled_opened: 27
   - nrw_brown_unfilled_transparent_labeled_opened: 26
   - tulip_brown_filled_transparent_labeled_crowned: 26
   - tulip_brown_filled_transparent_unlabeled_crowned: 26
   - euro_brown_filled_black_labeled_crowned: 25
   - longneck_white_unfilled_light_labeled_opened: 25
+  - kormoran330_brown_empty_empty_labeled_crowned: 24
   - steine_brown_filled_light_labeled_crowned: 24
   - tulip_brown_filled_light_labeled_opened: 24
   - tulip_brown_overfilled_transparent_labeled_crowned: 24
@@ -218,44 +244,54 @@ Unique combinations: 304
   - tulip_brown_unfilled_dark_labeled_crowned: 24
   - tulip_white_filled_light_labeled_opened: 24
   - tulip_white_overfilled_transparent_labeled_opened: 24
+  - euro_brown_filled_light_labeled_opened: 23
   - tulip_brown_empty_empty_labeled_opened: 23
   - tulip_brown_filled_transparent_labeled_opened: 23
-  - euro_brown_empty_empty_labeled_opened: 22
   - kormoran500_brown_filled_light_labeled_opened: 22
   - longneck_white_overfilled_light_labeled_opened: 22
   - nrw_brown_empty_empty_labeled_opened: 22
   - tulip_brown_overfilled_transparent_labeled_opened: 22
   - tulip_brown_unfilled_light_labeled_opened: 22
-  - kormoran330_brown_filled_light_labeled_opened: 21
+  - longneck_brown_unfilled_light_labeled_crowned: 21
   - nrw_brown_overfilled_transparent_labeled_opened: 21
+  - kormoran330_brown_empty_empty_labeled_opened: 20
   - kormoran500_brown_empty_empty_unlabeled_opened: 20
   - kormoran500_brown_filled_light_labeled_crowned: 20
   - tulip_white_empty_empty_labeled_crowned: 20
   - tulip_white_empty_empty_labeled_opened: 20
   - tulip_white_filled_transparent_labeled_opened: 20
   - tulip_white_overfilled_black_labeled_opened: 20
+  - euro_brown_filled_light_labeled_crowned: 19
+  - euro_brown_unfilled_light_labeled_crowned: 19
+  - euro_brown_unfilled_light_labeled_opened: 19
   - kormoran500_brown_filled_transparent_labeled_opened: 19
   - longneck_white_unfilled_light_labeled_crowned: 19
   - steine_brown_empty_empty_labeled_crowned: 19
   - tulip_brown_empty_empty_unlabeled_crowned: 19
   - tulip_brown_filled_dark_unlabeled_crowned: 19
   - tulip_brown_overfilled_light_labeled_crowned: 19
-  - kormoran330_brown_filled_light_labeled_crowned: 18
   - longneck_brown_empty_empty_unlabeled_opened: 18
+  - longneck_brown_filled_light_labeled_crowned: 18
   - longneck_white_overfilled_light_labeled_crowned: 18
   - tulip_brown_overfilled_light_labeled_opened: 18
   - tulip_brown_unfilled_dark_unlabeled_opened: 18
   - tulip_white_filled_light_labeled_crowned: 18
   - tulip_white_filled_transparent_labeled_crowned: 18
   - bugel_brown_filled_transparent_unlabeled_opened: 17
+  - longneck_brown_overfilled_light_labeled_opened: 17
   - bugel_brown_unfilled_black_unlabeled_opened: 16
   - gundola_brown_unfilled_transparent_labeled_crowned: 16
   - kormoran500_brown_empty_empty_unlabeled_crowned: 16
+  - longneck_brown_empty_empty_labeled_opened: 16
+  - longneck_brown_overfilled_light_labeled_crowned: 16
   - longneck_green_unfilled_light_labeled_crowned: 16
   - tulip_white_overfilled_transparent_labeled_crowned: 16
+  - euro_brown_overfilled_light_labeled_crowned: 15
   - gundola_brown_unfilled_transparent_labeled_opened: 15
   - kormoran330_brown_filled_light_unlabeled_crowned: 15
+  - longneck_brown_empty_empty_labeled_crowned: 15
   - longneck_brown_empty_empty_unlabeled_crowned: 15
+  - longneck_brown_filled_light_labeled_opened: 15
   - longneck_brown_filled_light_unlabeled_opened: 15
   - longneck_brown_filled_transparent_unlabeled_crowned: 15
   - tulip_brown_unfilled_dark_unlabeled_crowned: 15
@@ -264,6 +300,7 @@ Unique combinations: 304
   - vichy_brown_overfilled_transparent_unlabeled_opened: 15
   - bugel_brown_empty_empty_unlabeled_opened: 14
   - bugel_brown_filled_black_unlabeled_opened: 14
+  - euro_brown_overfilled_light_labeled_opened: 14
   - kormoran330_brown_empty_empty_unlabeled_opened: 14
   - longneck_green_unfilled_transparent_labeled_crowned: 14
   - steine_green_empty_empty_labeled_crowned: 14
@@ -286,8 +323,7 @@ Unique combinations: 304
   - vichy_brown_empty_empty_labeled_opened: 13
   - bugel_brown_filled_light_unlabeled_crowned: 12
   - gundola_brown_filled_transparent_labeled_opened: 12
-  - kormoran330_brown_overfilled_light_labeled_crowned: 12
-  - kormoran330_brown_overfilled_light_labeled_opened: 12
+  - longneck_brown_unfilled_light_labeled_opened: 12
   - longneck_brown_unfilled_light_unlabeled_opened: 12
   - longneck_green_filled_transparent_labeled_opened: 12
   - longneck_green_unfilled_transparent_labeled_opened: 12
@@ -301,7 +337,6 @@ Unique combinations: 304
   - euro_brown_filled_transparent_unlabeled_opened: 11
   - euro_brown_overfilled_transparent_unlabeled_opened: 11
   - kormoran330_brown_filled_light_unlabeled_opened: 11
-  - kormoran330_brown_unfilled_light_labeled_crowned: 11
   - kormoran500_brown_filled_light_unlabeled_opened: 11
   - longneck_green_filled_light_unlabeled_crowned: 11
   - longneck_green_unfilled_light_labeled_opened: 11
@@ -339,7 +374,6 @@ Unique combinations: 304
   - bugel_brown_filled_dark_unlabeled_crowned: 9
   - bugel_brown_overfilled_black_unlabeled_crowned: 9
   - bugel_brown_unfilled_transparent_unlabeled_opened: 9
-  - euro_brown_empty_empty_labeled_crowned: 9
   - euro_brown_filled_dark_unlabeled_crowned: 9
   - kormoran330_brown_empty_empty_unlabeled_crowned: 9
   - kormoran330_brown_unfilled_light_unlabeled_opened: 9
@@ -416,8 +450,6 @@ Unique combinations: 304
   - euro_brown_empty_empty_unlabeled_crowned: 6
   - euro_brown_filled_dark_unlabeled_opened: 6
   - euro_brown_overfilled_dark_labeled_crowned: 6
-  - kormoran330_brown_empty_empty_labeled_crowned: 6
-  - kormoran330_brown_empty_empty_labeled_opened: 6
   - kormoran500_brown_empty_empty_labeled_opened: 6
   - kormoran500_brown_unfilled_black_unlabeled_opened: 6
   - longneck_brown_unfilled_dark_unlabeled_opened: 6
