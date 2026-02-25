@@ -1,5 +1,77 @@
 [
   {
+    "type": "amber",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 117
+  },
+  {
+    "type": "amber",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 107
+  },
+  {
+    "type": "amber",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 118
+  },
+  {
+    "type": "amber",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 129
+  },
+  {
+    "type": "amber",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 90
+  },
+  {
+    "type": "amber",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 78
+  },
+  {
+    "type": "amber",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 72
+  },
+  {
+    "type": "amber",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 83
+  },
+  {
     "type": "bugel",
     "color": "brown",
     "fill": "empty",
@@ -186,7 +258,7 @@
     "liquid": "empty",
     "label": "labeled",
     "cap": "crowned",
-    "count": 9
+    "count": 30
   },
   {
     "type": "euro",
@@ -195,7 +267,7 @@
     "liquid": "empty",
     "label": "labeled",
     "cap": "opened",
-    "count": 22
+    "count": 41
   },
   {
     "type": "euro",
@@ -273,6 +345,24 @@
     "type": "euro",
     "color": "brown",
     "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 19
+  },
+  {
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 23
+  },
+  {
+    "type": "euro",
+    "color": "brown",
+    "fill": "filled",
     "liquid": "transparent",
     "label": "labeled",
     "cap": "opened",
@@ -327,6 +417,24 @@
     "type": "euro",
     "color": "brown",
     "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 15
+  },
+  {
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 14
+  },
+  {
+    "type": "euro",
+    "color": "brown",
+    "fill": "overfilled",
     "liquid": "transparent",
     "label": "labeled",
     "cap": "opened",
@@ -376,6 +484,24 @@
     "label": "unlabeled",
     "cap": "opened",
     "count": 7
+  },
+  {
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 19
+  },
+  {
+    "type": "euro",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 19
   },
   {
     "type": "euro",
@@ -474,7 +600,7 @@
     "liquid": "empty",
     "label": "labeled",
     "cap": "crowned",
-    "count": 6
+    "count": 24
   },
   {
     "type": "kormoran330",
@@ -483,7 +609,7 @@
     "liquid": "empty",
     "label": "labeled",
     "cap": "opened",
-    "count": 6
+    "count": 20
   },
   {
     "type": "kormoran330",
@@ -510,7 +636,7 @@
     "liquid": "light",
     "label": "labeled",
     "cap": "crowned",
-    "count": 18
+    "count": 36
   },
   {
     "type": "kormoran330",
@@ -519,7 +645,7 @@
     "liquid": "light",
     "label": "labeled",
     "cap": "opened",
-    "count": 21
+    "count": 38
   },
   {
     "type": "kormoran330",
@@ -564,7 +690,7 @@
     "liquid": "light",
     "label": "labeled",
     "cap": "crowned",
-    "count": 12
+    "count": 28
   },
   {
     "type": "kormoran330",
@@ -573,7 +699,7 @@
     "liquid": "light",
     "label": "labeled",
     "cap": "opened",
-    "count": 12
+    "count": 27
   },
   {
     "type": "kormoran330",
@@ -582,7 +708,7 @@
     "liquid": "light",
     "label": "labeled",
     "cap": "crowned",
-    "count": 11
+    "count": 29
   },
   {
     "type": "kormoran330",
@@ -591,7 +717,7 @@
     "liquid": "light",
     "label": "labeled",
     "cap": "opened",
-    "count": 27
+    "count": 42
   },
   {
     "type": "kormoran330",
@@ -792,6 +918,96 @@
     "count": 9
   },
   {
+    "type": "ksiazece",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 36
+  },
+  {
+    "type": "ksiazece",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 29
+  },
+  {
+    "type": "ksiazece",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 30
+  },
+  {
+    "type": "ksiazece",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 32
+  },
+  {
+    "type": "ksiazece",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 34
+  },
+  {
+    "type": "ksiazece",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 35
+  },
+  {
+    "type": "ksiazece",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 33
+  },
+  {
+    "type": "ksiazece",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 33
+  },
+  {
+    "type": "longneck",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 15
+  },
+  {
+    "type": "longneck",
+    "color": "brown",
+    "fill": "empty",
+    "liquid": "empty",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 16
+  },
+  {
     "type": "longneck",
     "color": "brown",
     "fill": "empty",
@@ -826,6 +1042,24 @@
     "label": "unlabeled",
     "cap": "opened",
     "count": 4
+  },
+  {
+    "type": "longneck",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 18
+  },
+  {
+    "type": "longneck",
+    "color": "brown",
+    "fill": "filled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 15
   },
   {
     "type": "longneck",
@@ -886,6 +1120,24 @@
     "color": "brown",
     "fill": "overfilled",
     "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 16
+  },
+  {
+    "type": "longneck",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 17
+  },
+  {
+    "type": "longneck",
+    "color": "brown",
+    "fill": "overfilled",
+    "liquid": "light",
     "label": "unlabeled",
     "cap": "crowned",
     "count": 10
@@ -934,6 +1186,24 @@
     "label": "unlabeled",
     "cap": "opened",
     "count": 6
+  },
+  {
+    "type": "longneck",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "crowned",
+    "count": 21
+  },
+  {
+    "type": "longneck",
+    "color": "brown",
+    "fill": "unfilled",
+    "liquid": "light",
+    "label": "labeled",
+    "cap": "opened",
+    "count": 12
   },
   {
     "type": "longneck",
