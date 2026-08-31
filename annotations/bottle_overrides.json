@@ -1,0 +1,20 @@
+{
+  "amber_brown_empty_empty_labeled_crowned": {
+    "verified": true,
+    "cut_after": [46, 82, 100],
+    "identity": ["porter", "piast", "kasztelan", "okocim"],
+    "note": "Porter 1-46, Piast 47-82, Kasztelan 83-100, Okocim 101-117"
+  },
+  "amber_brown_filled_light_labeled_opened": {
+    "verified": true,
+    "cut_after": [63, 85, 109],
+    "identity": ["porter", "piast", "kasztelan", "okocim"],
+    "note": "Porter 1-63, Piast 64-85, Kasztelan 86-109, Okocim 110-129"
+  },
+  "euro_brown_overfilled_transparent_labeled_opened": {
+    "verified": true,
+    "cut_after": [45],
+    "identity": ["mister_style", null],
+    "note": "Mister Style 1-45, red-label bottle 46-57"
+  }
+}

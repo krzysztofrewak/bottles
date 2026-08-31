@@ -13,3 +13,5 @@ pip-log.txt
 pip-delete-this-directory.txt
 .pypirc
 *.zip
+.cache
+bottle_sheets

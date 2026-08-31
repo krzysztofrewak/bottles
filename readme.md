@@ -23,6 +23,7 @@ bottles/
  ├─ images/           # All dataset images (not tracked in GitHub)
  ├─ scripts/          # Utility scripts for analysis and preprocessing
  │    └─ annotate.py  # Generates annotations
+ │    └─ bottles.py   # Groups images by the physical bottle they show
  │    └─ build.py     # Validates files, builds readme and annotations
  │    └─ import.py    # Imports new images into dataset 
  │    └─ stats.py     # Computes dataset statistics
@@ -131,6 +132,78 @@ python -m scripts.annotate
 
 Only files that follow the expected naming scheme are included in the output. Files that cannot be parsed are skipped automatically.
 
+#### Bottle index
+Many images show the same physical bottle from different angles. Because the published
+images carry no EXIF, `scripts.bottles` recovers that grouping from the index in each
+filename: `import.py` consumes `metadata.csv` in camera order, so within one parameter
+group the index preserves the order the photos were taken in, and the shots of a single
+bottle form a contiguous block. The script finds where that sequence changes bottle by
+comparing framing, background, and label colour between neighbouring images.
+
+```
+python -m scripts.bottles signatures   # one slow pass over images/, cached in .cache/
+python -m scripts.bottles index        # writes annotations/bottles.json
+python -m scripts.bottles report       # lists the groups and gaps worth reviewing
+python -m scripts.bottles sheets       # contact sheets with the detected cuts drawn
+```
+
+Detection is a strong first pass, not ground truth: on three groups checked by hand it
+found 6 of 7 real boundaries and added 4 false ones. Corrections belong in
+`annotations/bottle_overrides.json`, keyed by group, and are re-applied on every run:
+
+```json
+{
+  "amber_brown_empty_empty_labeled_crowned": {
+    "verified": true,
+    "cut_after": [46, 82, 100]
+  },
+  "euro_brown_overfilled_transparent_labeled_opened": {
+    "cut_after": [45],
+    "keep_together": [1]
+  }
+}
+```
+
+Each number is the index of the last image before a cut. `"verified": true` marks the
+list as the whole truth for that group and turns detection off for it; otherwise
+`cut_after` adds cuts and `keep_together` removes them.
+
+##### Bottle identity across groups
+A `bottle_id` only identifies a bottle inside its own parameter group. Because `label`
+and `cap` are part of that group, one physical bottle photographed with its label on and
+then off falls into two groups and gets two unrelated ids. Nothing visual joins them back
+— the signature leans on the label, which is the very thing that changed — so the join is
+recorded by hand as an `identity`, a name shared by every group the bottle appears in:
+
+```json
+{
+  "amber_brown_empty_empty_labeled_crowned": {
+    "verified": true,
+    "cut_after": [46, 82, 100],
+    "identity": ["porter", "piast", "kasztelan", "okocim"]
+  },
+  "euro_brown_overfilled_transparent_labeled_opened": {
+    "verified": true,
+    "cut_after": [45],
+    "identity": ["mister_style", null]
+  }
+}
+```
+
+The list is positional: one name per bottle of the group, in index order, and it has to be
+exactly as long as the group has bottles, so that a later cut cannot silently shift every
+name onto the wrong bottle. `"identity": {"2": "piast"}` names a single bottle instead,
+and `null` or a number left out leaves one unnamed. A name stands for one physical bottle
+rather than a brand: two bottles of the same beer, shot separately, need two names.
+
+`index` gathers the names into an `identities` block listing every `bottle_id` each bottle
+was seen under, and `report` prints how many bottles are still unnamed.
+
+The main use of this index is splitting the dataset: putting two shots of the same
+bottle into different train and test folds leaks near-duplicates across the split. Group
+by `identity` where it is set and by `bottle_id` everywhere else — a bottle known under
+two ids would otherwise be split across the folds.
+
 #### Testing
 Run with:
 ```
@@ -139,7 +212,7 @@ pytest -q
 
 ### Dataset Statistics
 ```
-Date: 2026-02-25
+Date: 2026-08-30
 Total images: 5431
 
 Attribute distributions:
